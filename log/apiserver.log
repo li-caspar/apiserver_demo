@@ -1,0 +1,919 @@
+{"level":"ERROR","timestamp":"2019-07-23 22:00:04.559","file":"model/init.go:27","msg":"Database connection failed.Database name:db_apiserver","data":{"error":"sql: unknown driver \"mysql\" (forgotten import?)"}}
+{"level":"INFO","timestamp":"2019-07-23 22:15:37.263","file":"apiserver/main.go:62","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-23 22:15:37.767","file":"apiserver/main.go:45","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-23 22:17:46.655","file":"apiserver/main.go:62","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-23 22:17:46.660","file":"apiserver/main.go:45","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-25 11:20:10.705","file":"apiserver/main.go:62","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-25 11:20:11.209","file":"apiserver/main.go:45","msg":"The router has been deplyed successfully."}
+{"level":"DEBUG","timestamp":"2019-07-25 11:32:29.042","file":"user/create.go:21","msg":"usernaem is [], password is []"}
+{"level":"ERROR","timestamp":"2019-07-25 11:32:29.042","file":"user/create.go:25","msg":"Get an error","data":{"error":"Err - code:20102, message:The User was not found This is add message., error:username can not found in db:xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2019-07-25 11:32:29.042","file":"user/create.go:29","msg":"err type is ErrUserNotFound"}
+{"level":"DEBUG","timestamp":"2019-07-25 11:32:37.571","file":"user/create.go:21","msg":"usernaem is [], password is []"}
+{"level":"ERROR","timestamp":"2019-07-25 11:32:37.574","file":"user/create.go:25","msg":"Get an error","data":{"error":"Err - code:20102, message:The User was not found This is add message., error:username can not found in db:xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2019-07-25 11:32:37.574","file":"user/create.go:29","msg":"err type is ErrUserNotFound"}
+{"level":"DEBUG","timestamp":"2019-07-25 11:33:03.065","file":"user/create.go:21","msg":"usernaem is [], password is []"}
+{"level":"ERROR","timestamp":"2019-07-25 11:33:03.065","file":"user/create.go:25","msg":"Get an error","data":{"error":"Err - code:20102, message:The User was not found This is add message., error:username can not found in db:xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2019-07-25 11:33:03.076","file":"user/create.go:29","msg":"err type is ErrUserNotFound"}
+{"level":"DEBUG","timestamp":"2019-07-25 11:33:08.147","file":"user/create.go:21","msg":"usernaem is [], password is []"}
+{"level":"ERROR","timestamp":"2019-07-25 11:33:08.148","file":"user/create.go:25","msg":"Get an error","data":{"error":"Err - code:20102, message:The User was not found This is add message., error:username can not found in db:xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2019-07-25 11:33:08.148","file":"user/create.go:29","msg":"err type is ErrUserNotFound"}
+{"level":"DEBUG","timestamp":"2019-07-25 11:33:22.721","file":"user/create.go:21","msg":"usernaem is [], password is []"}
+{"level":"ERROR","timestamp":"2019-07-25 11:33:22.721","file":"user/create.go:25","msg":"Get an error","data":{"error":"Err - code:20102, message:The User was not found This is add message., error:username can not found in db:xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2019-07-25 11:33:22.721","file":"user/create.go:29","msg":"err type is ErrUserNotFound"}
+{"level":"DEBUG","timestamp":"2019-07-25 11:34:08.821","file":"user/create.go:21","msg":"usernaem is [], password is []"}
+{"level":"ERROR","timestamp":"2019-07-25 11:34:08.822","file":"user/create.go:25","msg":"Get an error","data":{"error":"Err - code:20102, message:The User was not found This is add message., error:username can not found in db:xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2019-07-25 11:34:08.822","file":"user/create.go:29","msg":"err type is ErrUserNotFound"}
+{"level":"DEBUG","timestamp":"2019-07-25 11:35:14.197","file":"user/create.go:21","msg":"usernaem is [], password is []"}
+{"level":"ERROR","timestamp":"2019-07-25 11:35:14.202","file":"user/create.go:25","msg":"Get an error","data":{"error":"Err - code:20102, message:The User was not found This is add message., error:username can not found in db:xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2019-07-25 11:35:14.203","file":"user/create.go:29","msg":"err type is ErrUserNotFound"}
+{"level":"DEBUG","timestamp":"2019-07-25 11:35:20.364","file":"user/create.go:21","msg":"usernaem is [], password is []"}
+{"level":"ERROR","timestamp":"2019-07-25 11:35:20.364","file":"user/create.go:25","msg":"Get an error","data":{"error":"Err - code:20102, message:The User was not found This is add message., error:username can not found in db:xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2019-07-25 11:35:20.364","file":"user/create.go:29","msg":"err type is ErrUserNotFound"}
+{"level":"DEBUG","timestamp":"2019-07-25 11:35:25.489","file":"user/create.go:21","msg":"usernaem is [], password is []"}
+{"level":"ERROR","timestamp":"2019-07-25 11:35:25.489","file":"user/create.go:25","msg":"Get an error","data":{"error":"Err - code:20102, message:The User was not found This is add message., error:username can not found in db:xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2019-07-25 11:35:25.493","file":"user/create.go:29","msg":"err type is ErrUserNotFound"}
+{"level":"DEBUG","timestamp":"2019-07-25 11:35:48.748","file":"user/create.go:21","msg":"usernaem is [], password is []"}
+{"level":"ERROR","timestamp":"2019-07-25 11:35:48.748","file":"user/create.go:25","msg":"Get an error","data":{"error":"Err - code:20102, message:The User was not found This is add message., error:username can not found in db:xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2019-07-25 11:35:48.748","file":"user/create.go:29","msg":"err type is ErrUserNotFound"}
+{"level":"DEBUG","timestamp":"2019-07-25 11:35:50.389","file":"user/create.go:21","msg":"usernaem is [], password is []"}
+{"level":"ERROR","timestamp":"2019-07-25 11:35:50.389","file":"user/create.go:25","msg":"Get an error","data":{"error":"Err - code:20102, message:The User was not found This is add message., error:username can not found in db:xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2019-07-25 11:35:50.389","file":"user/create.go:29","msg":"err type is ErrUserNotFound"}
+{"level":"DEBUG","timestamp":"2019-07-25 11:36:05.384","file":"user/create.go:21","msg":"usernaem is [], password is []"}
+{"level":"ERROR","timestamp":"2019-07-25 11:36:05.384","file":"user/create.go:25","msg":"Get an error","data":{"error":"Err - code:20102, message:The User was not found This is add message., error:username can not found in db:xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2019-07-25 11:36:05.384","file":"user/create.go:29","msg":"err type is ErrUserNotFound"}
+{"level":"DEBUG","timestamp":"2019-07-25 11:36:10.814","file":"user/create.go:21","msg":"usernaem is [], password is []"}
+{"level":"ERROR","timestamp":"2019-07-25 11:36:10.827","file":"user/create.go:25","msg":"Get an error","data":{"error":"Err - code:20102, message:The User was not found This is add message., error:username can not found in db:xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2019-07-25 11:36:10.830","file":"user/create.go:29","msg":"err type is ErrUserNotFound"}
+{"level":"DEBUG","timestamp":"2019-07-25 11:36:43.353","file":"user/create.go:21","msg":"usernaem is [], password is []"}
+{"level":"ERROR","timestamp":"2019-07-25 11:36:43.354","file":"user/create.go:25","msg":"Get an error","data":{"error":"Err - code:20102, message:The User was not found This is add message., error:username can not found in db:xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2019-07-25 11:36:43.354","file":"user/create.go:29","msg":"err type is ErrUserNotFound"}
+{"level":"DEBUG","timestamp":"2019-07-25 11:36:48.325","file":"user/create.go:21","msg":"usernaem is [], password is []"}
+{"level":"ERROR","timestamp":"2019-07-25 11:36:48.325","file":"user/create.go:25","msg":"Get an error","data":{"error":"Err - code:20102, message:The User was not found This is add message., error:username can not found in db:xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2019-07-25 11:36:48.325","file":"user/create.go:29","msg":"err type is ErrUserNotFound"}
+{"level":"DEBUG","timestamp":"2019-07-25 11:37:38.995","file":"user/create.go:21","msg":"usernaem is [], password is []"}
+{"level":"ERROR","timestamp":"2019-07-25 11:37:38.995","file":"user/create.go:25","msg":"Get an error","data":{"error":"Err - code:20102, message:The User was not found This is add message., error:username can not found in db:xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2019-07-25 11:37:39.016","file":"user/create.go:29","msg":"err type is ErrUserNotFound"}
+{"level":"DEBUG","timestamp":"2019-07-25 11:37:57.990","file":"user/create.go:21","msg":"usernaem is [], password is []"}
+{"level":"ERROR","timestamp":"2019-07-25 11:37:57.990","file":"user/create.go:25","msg":"Get an error","data":{"error":"Err - code:20102, message:The User was not found This is add message., error:username can not found in db:xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2019-07-25 11:37:58.014","file":"user/create.go:29","msg":"err type is ErrUserNotFound"}
+{"level":"DEBUG","timestamp":"2019-07-25 11:38:02.948","file":"user/create.go:21","msg":"usernaem is [], password is []"}
+{"level":"ERROR","timestamp":"2019-07-25 11:38:02.948","file":"user/create.go:25","msg":"Get an error","data":{"error":"Err - code:20102, message:The User was not found This is add message., error:username can not found in db:xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2019-07-25 11:38:02.948","file":"user/create.go:29","msg":"err type is ErrUserNotFound"}
+{"level":"DEBUG","timestamp":"2019-07-25 11:38:24.837","file":"user/create.go:21","msg":"usernaem is [], password is []"}
+{"level":"ERROR","timestamp":"2019-07-25 11:38:24.837","file":"user/create.go:25","msg":"Get an error","data":{"error":"Err - code:20102, message:The User was not found This is add message., error:username can not found in db:xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2019-07-25 11:38:24.837","file":"user/create.go:29","msg":"err type is ErrUserNotFound"}
+{"level":"DEBUG","timestamp":"2019-07-25 11:38:28.920","file":"user/create.go:21","msg":"usernaem is [], password is []"}
+{"level":"ERROR","timestamp":"2019-07-25 11:38:28.921","file":"user/create.go:25","msg":"Get an error","data":{"error":"Err - code:20102, message:The User was not found This is add message., error:username can not found in db:xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2019-07-25 11:38:28.921","file":"user/create.go:29","msg":"err type is ErrUserNotFound"}
+{"level":"INFO","timestamp":"2019-07-25 11:41:22.520","file":"apiserver/main.go:62","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-25 11:41:23.024","file":"apiserver/main.go:45","msg":"The router has been deplyed successfully."}
+{"level":"DEBUG","timestamp":"2019-07-25 11:41:27.768","file":"user/create.go:21","msg":"Username is [], password is []"}
+{"level":"ERROR","timestamp":"2019-07-25 11:41:27.782","file":"user/create.go:25","msg":"Get an error","data":{"error":"Err - code:20102, message:The User was not found This is add message., error:username can not found in db:xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2019-07-25 11:41:27.783","file":"user/create.go:29","msg":"err type is ErrUserNotFound"}
+{"level":"DEBUG","timestamp":"2019-07-25 11:41:43.219","file":"user/create.go:21","msg":"Username is [], password is []"}
+{"level":"ERROR","timestamp":"2019-07-25 11:41:43.219","file":"user/create.go:25","msg":"Get an error","data":{"error":"Err - code:20102, message:The User was not found This is add message., error:username can not found in db:xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2019-07-25 11:41:43.220","file":"user/create.go:29","msg":"err type is ErrUserNotFound"}
+{"level":"DEBUG","timestamp":"2019-07-25 11:43:13.358","file":"user/create.go:21","msg":"Username is [], password is []"}
+{"level":"ERROR","timestamp":"2019-07-25 11:43:13.358","file":"user/create.go:25","msg":"Get an error","data":{"error":"Err - code:20102, message:The User was not found This is add message., error:username can not found in db:xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2019-07-25 11:43:13.358","file":"user/create.go:29","msg":"err type is ErrUserNotFound"}
+{"level":"DEBUG","timestamp":"2019-07-25 11:43:32.628","file":"user/create.go:21","msg":"Username is [], password is []"}
+{"level":"ERROR","timestamp":"2019-07-25 11:43:32.628","file":"user/create.go:25","msg":"Get an error","data":{"error":"Err - code:20102, message:The User was not found This is add message., error:username can not found in db:xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2019-07-25 11:43:32.628","file":"user/create.go:29","msg":"err type is ErrUserNotFound"}
+{"level":"DEBUG","timestamp":"2019-07-25 11:43:46.109","file":"user/create.go:21","msg":"Username is [], password is []"}
+{"level":"ERROR","timestamp":"2019-07-25 11:43:46.118","file":"user/create.go:25","msg":"Get an error","data":{"error":"Err - code:20102, message:The User was not found This is add message., error:username can not found in db:xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2019-07-25 11:43:46.122","file":"user/create.go:29","msg":"err type is ErrUserNotFound"}
+{"level":"DEBUG","timestamp":"2019-07-25 11:43:49.137","file":"user/create.go:21","msg":"Username is [], password is []"}
+{"level":"ERROR","timestamp":"2019-07-25 11:43:49.137","file":"user/create.go:25","msg":"Get an error","data":{"error":"Err - code:20102, message:The User was not found This is add message., error:username can not found in db:xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2019-07-25 11:43:49.137","file":"user/create.go:29","msg":"err type is ErrUserNotFound"}
+{"level":"DEBUG","timestamp":"2019-07-25 11:43:55.651","file":"user/create.go:21","msg":"Username is [], password is []"}
+{"level":"ERROR","timestamp":"2019-07-25 11:43:55.651","file":"user/create.go:25","msg":"Get an error","data":{"error":"Err - code:20102, message:The User was not found This is add message., error:username can not found in db:xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2019-07-25 11:43:55.652","file":"user/create.go:29","msg":"err type is ErrUserNotFound"}
+{"level":"DEBUG","timestamp":"2019-07-25 11:44:05.320","file":"user/create.go:21","msg":"Username is [], password is []"}
+{"level":"ERROR","timestamp":"2019-07-25 11:44:05.320","file":"user/create.go:25","msg":"Get an error","data":{"error":"Err - code:20102, message:The User was not found This is add message., error:username can not found in db:xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2019-07-25 11:44:05.320","file":"user/create.go:29","msg":"err type is ErrUserNotFound"}
+{"level":"DEBUG","timestamp":"2019-07-25 11:46:38.601","file":"user/create.go:21","msg":"Username is [], password is []"}
+{"level":"ERROR","timestamp":"2019-07-25 11:46:38.602","file":"user/create.go:25","msg":"Get an error","data":{"error":"Err - code:20102, message:The User was not found This is add message., error:username can not found in db:xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2019-07-25 11:46:38.602","file":"user/create.go:29","msg":"err type is ErrUserNotFound"}
+{"level":"DEBUG","timestamp":"2019-07-25 11:46:41.061","file":"user/create.go:21","msg":"Username is [], password is []"}
+{"level":"ERROR","timestamp":"2019-07-25 11:46:41.061","file":"user/create.go:25","msg":"Get an error","data":{"error":"Err - code:20102, message:The User was not found This is add message., error:username can not found in db:xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2019-07-25 11:46:41.061","file":"user/create.go:29","msg":"err type is ErrUserNotFound"}
+{"level":"DEBUG","timestamp":"2019-07-25 11:46:45.686","file":"user/create.go:21","msg":"Username is [], password is []"}
+{"level":"ERROR","timestamp":"2019-07-25 11:46:45.686","file":"user/create.go:25","msg":"Get an error","data":{"error":"Err - code:20102, message:The User was not found This is add message., error:username can not found in db:xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2019-07-25 11:46:45.686","file":"user/create.go:29","msg":"err type is ErrUserNotFound"}
+{"level":"INFO","timestamp":"2019-07-25 11:46:59.654","file":"apiserver/main.go:62","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-25 11:46:59.659","file":"apiserver/main.go:45","msg":"The router has been deplyed successfully."}
+{"level":"DEBUG","timestamp":"2019-07-25 11:47:04.368","file":"user/create.go:23","msg":"username is: [], password is []"}
+{"level":"ERROR","timestamp":"2019-07-25 11:47:04.368","file":"user/create.go:26","msg":"Get an error","data":{"error":"Err - code:20102, message:The User was not found This is add message., error:username can not found in db: xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2019-07-25 11:47:04.368","file":"user/create.go:30","msg":"err type is ErrUserNotFound"}
+{"level":"DEBUG","timestamp":"2019-07-25 11:47:09.015","file":"user/create.go:23","msg":"username is: [], password is []"}
+{"level":"ERROR","timestamp":"2019-07-25 11:47:09.016","file":"user/create.go:26","msg":"Get an error","data":{"error":"Err - code:20102, message:The User was not found This is add message., error:username can not found in db: xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2019-07-25 11:47:09.016","file":"user/create.go:30","msg":"err type is ErrUserNotFound"}
+{"level":"DEBUG","timestamp":"2019-07-25 11:47:12.749","file":"user/create.go:23","msg":"username is: [], password is []"}
+{"level":"ERROR","timestamp":"2019-07-25 11:47:12.750","file":"user/create.go:26","msg":"Get an error","data":{"error":"Err - code:20102, message:The User was not found This is add message., error:username can not found in db: xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2019-07-25 11:47:12.750","file":"user/create.go:30","msg":"err type is ErrUserNotFound"}
+{"level":"DEBUG","timestamp":"2019-07-25 11:47:15.501","file":"user/create.go:23","msg":"username is: [], password is []"}
+{"level":"ERROR","timestamp":"2019-07-25 11:47:15.511","file":"user/create.go:26","msg":"Get an error","data":{"error":"Err - code:20102, message:The User was not found This is add message., error:username can not found in db: xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2019-07-25 11:47:15.511","file":"user/create.go:30","msg":"err type is ErrUserNotFound"}
+{"level":"DEBUG","timestamp":"2019-07-25 11:47:18.624","file":"user/create.go:23","msg":"username is: [], password is []"}
+{"level":"ERROR","timestamp":"2019-07-25 11:47:18.624","file":"user/create.go:26","msg":"Get an error","data":{"error":"Err - code:20102, message:The User was not found This is add message., error:username can not found in db: xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2019-07-25 11:47:18.635","file":"user/create.go:30","msg":"err type is ErrUserNotFound"}
+{"level":"DEBUG","timestamp":"2019-07-25 11:58:54.508","file":"user/create.go:23","msg":"username is: [], password is []"}
+{"level":"ERROR","timestamp":"2019-07-25 11:58:54.509","file":"user/create.go:26","msg":"Get an error","data":{"error":"Err - code:20102, message:The User was not found This is add message., error:username can not found in db: xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2019-07-25 11:58:54.512","file":"user/create.go:30","msg":"err type is ErrUserNotFound"}
+{"level":"INFO","timestamp":"2019-07-25 11:59:34.703","file":"apiserver/main.go:62","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-25 11:59:34.721","file":"apiserver/main.go:45","msg":"The router has been deplyed successfully."}
+{"level":"DEBUG","timestamp":"2019-07-25 11:59:40.017","file":"user/create.go:24","msg":"username is: [], password is []"}
+{"level":"ERROR","timestamp":"2019-07-25 11:59:40.019","file":"user/create.go:27","msg":"Get an error","data":{"error":"Err - code:20102, message:The User was not found This is add message., error:username can not found in db: xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2019-07-25 11:59:40.019","file":"user/create.go:31","msg":"err type is ErrUserNotFound"}
+{"level":"INFO","timestamp":"2019-07-25 12:00:17.441","file":"apiserver/main.go:62","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-25 12:00:17.944","file":"apiserver/main.go:45","msg":"The router has been deplyed successfully."}
+{"level":"DEBUG","timestamp":"2019-07-25 12:00:19.708","file":"user/create.go:25","msg":"username is: [], password is []"}
+{"level":"ERROR","timestamp":"2019-07-25 12:00:19.708","file":"user/create.go:28","msg":"Get an error","data":{"error":"Err - code:20102, message:The User was not found This is add message., error:username can not found in db: xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2019-07-25 12:00:19.709","file":"user/create.go:32","msg":"err type is ErrUserNotFound"}
+{"level":"DEBUG","timestamp":"2019-07-25 12:00:29.580","file":"user/create.go:25","msg":"username is: [], password is []"}
+{"level":"ERROR","timestamp":"2019-07-25 12:00:29.580","file":"user/create.go:28","msg":"Get an error","data":{"error":"Err - code:20102, message:The User was not found This is add message., error:username can not found in db: xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2019-07-25 12:00:29.580","file":"user/create.go:32","msg":"err type is ErrUserNotFound"}
+{"level":"DEBUG","timestamp":"2019-07-25 12:00:37.717","file":"user/create.go:25","msg":"username is: [], password is []"}
+{"level":"ERROR","timestamp":"2019-07-25 12:00:37.717","file":"user/create.go:28","msg":"Get an error","data":{"error":"Err - code:20102, message:The User was not found This is add message., error:username can not found in db: xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2019-07-25 12:00:37.717","file":"user/create.go:32","msg":"err type is ErrUserNotFound"}
+{"level":"DEBUG","timestamp":"2019-07-25 12:00:42.641","file":"user/create.go:25","msg":"username is: [], password is []"}
+{"level":"ERROR","timestamp":"2019-07-25 12:00:42.641","file":"user/create.go:28","msg":"Get an error","data":{"error":"Err - code:20102, message:The User was not found This is add message., error:username can not found in db: xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2019-07-25 12:00:42.641","file":"user/create.go:32","msg":"err type is ErrUserNotFound"}
+{"level":"DEBUG","timestamp":"2019-07-25 12:00:48.606","file":"user/create.go:25","msg":"username is: [], password is []"}
+{"level":"ERROR","timestamp":"2019-07-25 12:00:48.606","file":"user/create.go:28","msg":"Get an error","data":{"error":"Err - code:20102, message:The User was not found This is add message., error:username can not found in db: xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2019-07-25 12:00:48.609","file":"user/create.go:32","msg":"err type is ErrUserNotFound"}
+{"level":"DEBUG","timestamp":"2019-07-25 12:00:59.255","file":"user/create.go:25","msg":"username is: [], password is []"}
+{"level":"ERROR","timestamp":"2019-07-25 12:00:59.255","file":"user/create.go:28","msg":"Get an error","data":{"error":"Err - code:20102, message:The User was not found This is add message., error:username can not found in db: xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2019-07-25 12:00:59.256","file":"user/create.go:32","msg":"err type is ErrUserNotFound"}
+{"level":"DEBUG","timestamp":"2019-07-25 12:03:30.036","file":"user/create.go:25","msg":"username is: [], password is []"}
+{"level":"ERROR","timestamp":"2019-07-25 12:03:30.036","file":"user/create.go:28","msg":"Get an error","data":{"error":"Err - code:20102, message:The User was not found This is add message., error:username can not found in db: xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2019-07-25 12:03:30.036","file":"user/create.go:32","msg":"err type is ErrUserNotFound"}
+{"level":"DEBUG","timestamp":"2019-07-25 12:04:02.792","file":"user/create.go:25","msg":"username is: [admin], password is []"}
+{"level":"DEBUG","timestamp":"2019-07-25 12:04:14.378","file":"user/create.go:25","msg":"username is: [], password is []"}
+{"level":"ERROR","timestamp":"2019-07-25 12:04:14.378","file":"user/create.go:28","msg":"Get an error","data":{"error":"Err - code:20102, message:The User was not found This is add message., error:username can not found in db: xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2019-07-25 12:04:14.378","file":"user/create.go:32","msg":"err type is ErrUserNotFound"}
+{"level":"DEBUG","timestamp":"2019-07-25 12:04:16.698","file":"user/create.go:25","msg":"username is: [], password is []"}
+{"level":"ERROR","timestamp":"2019-07-25 12:04:16.699","file":"user/create.go:28","msg":"Get an error","data":{"error":"Err - code:20102, message:The User was not found This is add message., error:username can not found in db: xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2019-07-25 12:04:16.699","file":"user/create.go:32","msg":"err type is ErrUserNotFound"}
+{"level":"DEBUG","timestamp":"2019-07-25 12:04:22.954","file":"user/create.go:25","msg":"username is: [], password is []"}
+{"level":"ERROR","timestamp":"2019-07-25 12:04:22.954","file":"user/create.go:28","msg":"Get an error","data":{"error":"Err - code:20102, message:The User was not found This is add message., error:username can not found in db: xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2019-07-25 12:04:22.954","file":"user/create.go:32","msg":"err type is ErrUserNotFound"}
+{"level":"DEBUG","timestamp":"2019-07-25 12:04:26.897","file":"user/create.go:25","msg":"username is: [], password is []"}
+{"level":"ERROR","timestamp":"2019-07-25 12:04:26.897","file":"user/create.go:28","msg":"Get an error","data":{"error":"Err - code:20102, message:The User was not found This is add message., error:username can not found in db: xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2019-07-25 12:04:26.897","file":"user/create.go:32","msg":"err type is ErrUserNotFound"}
+{"level":"DEBUG","timestamp":"2019-07-25 12:04:39.437","file":"user/create.go:25","msg":"username is: [admin], password is []"}
+{"level":"INFO","timestamp":"2019-07-25 12:04:54.807","file":"apiserver/main.go:62","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-25 12:04:55.311","file":"apiserver/main.go:45","msg":"The router has been deplyed successfully."}
+{"level":"DEBUG","timestamp":"2019-07-25 12:04:56.774","file":"user/create.go:23","msg":"username is: [admin], password is []"}
+{"level":"DEBUG","timestamp":"2019-07-25 12:05:19.044","file":"user/create.go:23","msg":"username is: [admin], password is [123456]"}
+{"level":"INFO","timestamp":"2019-07-25 15:01:05.532","file":"apiserver/main.go:62","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-25 15:01:06.034","file":"apiserver/main.go:45","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-25 15:02:32.549","file":"apiserver/main.go:62","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-25 15:02:33.092","file":"apiserver/main.go:45","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-25 15:03:05.364","file":"user/create.go:23","msg":"URL username is teuser"}
+{"level":"INFO","timestamp":"2019-07-25 15:03:05.365","file":"user/create.go:26","msg":"URL ken param desc is tddesc"}
+{"level":"INFO","timestamp":"2019-07-25 15:03:05.365","file":"user/create.go:29","msg":"Header Content-Type is application/json"}
+{"level":"DEBUG","timestamp":"2019-07-25 15:03:05.365","file":"user/create.go:32","msg":"username is: [admin], password is [123456]"}
+{"level":"INFO","timestamp":"2019-07-25 15:03:15.184","file":"user/create.go:23","msg":"URL username is teuser"}
+{"level":"INFO","timestamp":"2019-07-25 15:03:15.186","file":"user/create.go:26","msg":"URL ken param desc is tddesc"}
+{"level":"INFO","timestamp":"2019-07-25 15:03:15.186","file":"user/create.go:29","msg":"Header Content-Type is application/json"}
+{"level":"DEBUG","timestamp":"2019-07-25 15:03:15.186","file":"user/create.go:32","msg":"username is: [admin], password is [123456]"}
+{"level":"INFO","timestamp":"2019-07-25 15:03:46.366","file":"user/create.go:23","msg":"URL username is teuser"}
+{"level":"INFO","timestamp":"2019-07-25 15:03:46.366","file":"user/create.go:26","msg":"URL ken param desc is tddesc"}
+{"level":"INFO","timestamp":"2019-07-25 15:03:46.366","file":"user/create.go:29","msg":"Header Content-Type is application/json"}
+{"level":"DEBUG","timestamp":"2019-07-25 15:03:46.366","file":"user/create.go:32","msg":"username is: [admin], password is []"}
+{"level":"INFO","timestamp":"2019-07-25 15:04:07.605","file":"user/create.go:23","msg":"URL username is teuser"}
+{"level":"INFO","timestamp":"2019-07-25 15:04:07.605","file":"user/create.go:26","msg":"URL ken param desc is tddesc"}
+{"level":"INFO","timestamp":"2019-07-25 15:04:07.605","file":"user/create.go:29","msg":"Header Content-Type is application/json"}
+{"level":"DEBUG","timestamp":"2019-07-25 15:04:07.605","file":"user/create.go:32","msg":"username is: [], password is [123456]"}
+{"level":"INFO","timestamp":"2019-07-25 15:12:54.117","file":"apiserver/main.go:62","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-25 15:12:54.120","file":"apiserver/main.go:45","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-25 15:12:58.068","file":"user/create.go:23","msg":"URL username is teuser"}
+{"level":"INFO","timestamp":"2019-07-25 15:12:58.068","file":"user/create.go:26","msg":"URL ken param desc is tddesc"}
+{"level":"INFO","timestamp":"2019-07-25 15:12:58.069","file":"user/create.go:29","msg":"Header Content-Type is application/json"}
+{"level":"DEBUG","timestamp":"2019-07-25 15:12:58.070","file":"user/create.go:32","msg":"username is: [], password is [123456]"}
+{"level":"INFO","timestamp":"2019-07-25 15:13:04.951","file":"user/create.go:23","msg":"URL username is teuser"}
+{"level":"INFO","timestamp":"2019-07-25 15:13:04.951","file":"user/create.go:26","msg":"URL ken param desc is tddesc"}
+{"level":"INFO","timestamp":"2019-07-25 15:13:04.952","file":"user/create.go:29","msg":"Header Content-Type is application/json"}
+{"level":"DEBUG","timestamp":"2019-07-25 15:13:04.952","file":"user/create.go:32","msg":"username is: [admin], password is [123456]"}
+{"level":"INFO","timestamp":"2019-07-25 15:15:28.925","file":"apiserver/main.go:62","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-25 15:15:28.928","file":"apiserver/main.go:45","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-25 15:15:30.161","file":"user/create.go:23","msg":"URL username is teuser"}
+{"level":"INFO","timestamp":"2019-07-25 15:15:30.161","file":"user/create.go:26","msg":"URL ken param desc is tddesc"}
+{"level":"INFO","timestamp":"2019-07-25 15:15:30.162","file":"user/create.go:29","msg":"Header Content-Type is application/json"}
+{"level":"DEBUG","timestamp":"2019-07-25 15:15:30.163","file":"user/create.go:32","msg":"username is: [admin], password is [123456]"}
+{"level":"INFO","timestamp":"2019-07-25 21:58:45.734","file":"apiserver/main.go:62","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-25 21:58:46.237","file":"apiserver/main.go:45","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-25 22:02:43.540","file":"apiserver/main.go:62","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-25 22:02:44.046","file":"apiserver/main.go:45","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-25 22:04:58.136","file":"apiserver/main.go:62","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-25 22:04:58.144","file":"sd/check.go:24","msg":"HealthCheck function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-25 22:04:58.145","file":"apiserver/main.go:45","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-25 22:05:01.381","file":"sd/check.go:24","msg":"HealthCheck function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-25 22:05:02.597","file":"sd/check.go:24","msg":"HealthCheck function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-25 22:05:03.464","file":"sd/check.go:24","msg":"HealthCheck function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-25 22:05:04.065","file":"sd/check.go:24","msg":"HealthCheck function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-25 22:05:04.376","file":"sd/check.go:24","msg":"HealthCheck function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-25 22:05:04.640","file":"sd/check.go:24","msg":"HealthCheck function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-25 22:05:04.862","file":"sd/check.go:24","msg":"HealthCheck function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-25 22:05:05.089","file":"sd/check.go:24","msg":"HealthCheck function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-25 22:05:05.390","file":"sd/check.go:24","msg":"HealthCheck function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-25 22:05:05.614","file":"sd/check.go:24","msg":"HealthCheck function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-25 22:05:05.800","file":"sd/check.go:24","msg":"HealthCheck function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-25 22:05:06.031","file":"sd/check.go:24","msg":"HealthCheck function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-25 22:08:00.236","file":"apiserver/main.go:62","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-25 22:08:00.240","file":"middleware/header.go:13","msg":"NoCache function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-25 22:08:00.241","file":"sd/check.go:24","msg":"HealthCheck function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-25 22:08:00.241","file":"apiserver/main.go:45","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-25 22:08:12.053","file":"middleware/header.go:13","msg":"NoCache function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-25 22:08:12.053","file":"sd/check.go:24","msg":"HealthCheck function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-25 22:08:22.421","file":"middleware/header.go:13","msg":"NoCache function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-25 22:08:22.421","file":"sd/check.go:24","msg":"HealthCheck function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-25 22:09:05.486","file":"middleware/header.go:13","msg":"NoCache function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-25 22:09:05.487","file":"sd/check.go:24","msg":"HealthCheck function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-25 22:09:13.084","file":"middleware/header.go:13","msg":"NoCache function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-25 22:09:13.084","file":"sd/check.go:24","msg":"HealthCheck function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-25 22:09:26.771","file":"apiserver/main.go:62","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-25 22:09:26.775","file":"sd/check.go:24","msg":"HealthCheck function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-25 22:09:26.776","file":"apiserver/main.go:45","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-25 22:09:29.348","file":"sd/check.go:24","msg":"HealthCheck function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-25 22:09:36.404","file":"sd/check.go:24","msg":"HealthCheck function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-25 22:09:48.900","file":"apiserver/main.go:62","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-25 22:09:48.906","file":"apiserver/main.go:45","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-25 22:10:00.126","file":"user/create.go:14","msg":"User Create function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-25 22:11:12.009","file":"apiserver/main.go:62","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-25 22:11:12.013","file":"apiserver/main.go:45","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-25 22:11:15.236","file":"user/create.go:14","msg":"User Create function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-25 22:12:06.533","file":"apiserver/main.go:62","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-25 22:12:07.036","file":"apiserver/main.go:45","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-25 22:12:09.831","file":"user/create.go:14","msg":"User Create function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-25 22:12:51.157","file":"user/create.go:14","msg":"User Create function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-25 22:14:31.421","file":"apiserver/main.go:62","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-25 22:14:31.424","file":"apiserver/main.go:45","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-25 22:14:33.103","file":"user/create.go:15","msg":"User Create function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 14:38:07.712","file":"apiserver/main.go:62","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-26 14:38:08.223","file":"apiserver/main.go:45","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-26 14:39:23.574","file":"user/create.go:15","msg":"User Create function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 14:39:35.257","file":"user/create.go:15","msg":"User Create function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 14:40:49.158","file":"apiserver/main.go:62","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-26 14:40:49.797","file":"apiserver/main.go:45","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-26 14:52:45.921","file":"apiserver/main.go:62","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-26 14:52:45.928","file":"apiserver/main.go:45","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-26 14:58:57.664","file":"user/update.go:15","msg":"User Update function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 14:59:14.274","file":"user/update.go:15","msg":"User Update function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 15:00:17.061","file":"apiserver/main.go:62","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-26 15:00:17.067","file":"apiserver/main.go:45","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-26 15:00:19.114","file":"user/update.go:15","msg":"User Update function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 15:00:47.577","file":"apiserver/main.go:62","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-26 15:00:48.080","file":"apiserver/main.go:45","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-26 15:00:51.089","file":"user/update.go:15","msg":"User Update function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 15:04:43.282","file":"apiserver/main.go:62","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-26 15:04:43.789","file":"apiserver/main.go:45","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-26 15:04:49.138","file":"user/delete.go:15","msg":"User Delete function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:30:17.901","file":"apiserver/main.go:62","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-26 16:30:18.407","file":"apiserver/main.go:45","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-26 16:31:09.650","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:31:18.907","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:31:20.182","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:31:21.165","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:31:22.256","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:31:23.460","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:31:29.190","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:31:30.817","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:32:00.027","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:32:15.720","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:32:17.396","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:32:18.599","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:32:19.709","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:32:20.811","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:32:21.787","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:32:23.015","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:32:24.003","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:32:25.039","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:32:25.969","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:32:27.023","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:32:27.877","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:32:28.783","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:32:29.553","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:32:30.495","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:32:31.423","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:32:32.276","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:32:33.050","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:32:33.835","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:32:34.582","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:32:35.439","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:32:36.318","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:32:37.147","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:32:37.929","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:32:38.723","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:32:57.755","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:33:08.025","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:33:14.480","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:33:22.771","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:33:28.235","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:33:35.165","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:33:42.238","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:33:48.919","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:33:52.763","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:36:53.743","file":"apiserver/main.go:62","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-26 16:36:53.747","file":"apiserver/main.go:45","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-26 16:36:56.923","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:36:58.440","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:36:59.466","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:37:00.248","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:37:01.061","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:37:02.046","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:37:02.880","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:37:03.827","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:37:04.664","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:37:05.489","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:37:06.301","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:37:07.031","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:37:07.885","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:37:08.616","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:37:09.503","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:37:10.286","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:37:11.074","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:37:11.849","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:37:12.606","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:37:13.444","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:37:14.303","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:37:15.164","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:37:23.422","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:37:25.506","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:37:26.426","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:37:27.254","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:37:27.976","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:37:28.838","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:37:29.592","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:37:30.327","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:37:31.111","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:37:31.798","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:37:32.597","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:37:33.432","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:37:34.037","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:37:34.778","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:37:35.466","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:37:36.283","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-26 16:45:57.595","file":"apiserver/main.go:62","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-26 16:45:57.600","file":"apiserver/main.go:45","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-26 16:48:11.825","file":"apiserver/main.go:62","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-26 16:48:11.829","file":"apiserver/main.go:45","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-26 16:49:00.679","file":"apiserver/main.go:62","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-26 16:49:00.684","file":"apiserver/main.go:45","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-26 16:54:30.900","file":"apiserver/main.go:62","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-26 16:54:31.408","file":"apiserver/main.go:45","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-26 16:55:17.386","file":"apiserver/main.go:62","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-26 16:55:17.392","file":"apiserver/main.go:45","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-26 16:56:30.162","file":"apiserver/main.go:62","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-26 16:56:30.165","file":"apiserver/main.go:45","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-27 09:41:44.008","file":"apiserver/main.go:62","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-27 09:41:44.596","file":"apiserver/main.go:45","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-27 09:42:18.774","file":"apiserver/main.go:62","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-27 09:42:19.318","file":"apiserver/main.go:45","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-27 09:43:40.825","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 09:43:54.273","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 09:44:50.519","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 09:45:01.414","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 09:45:11.299","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 09:45:21.281","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 09:47:31.127","file":"apiserver/main.go:62","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-27 09:47:31.135","file":"apiserver/main.go:45","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-27 09:47:33.473","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 09:48:15.369","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 09:48:22.653","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 09:48:30.636","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 09:48:38.001","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 09:48:45.222","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 09:48:51.959","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 09:49:08.491","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 09:49:50.424","file":"apiserver/main.go:62","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-27 09:49:50.928","file":"apiserver/main.go:45","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-27 09:49:51.658","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 09:49:58.857","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 09:50:07.391","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 09:50:21.112","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 09:50:29.509","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 09:50:51.673","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 09:51:42.505","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 09:52:42.113","file":"apiserver/main.go:62","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-27 09:52:42.116","file":"apiserver/main.go:45","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-27 09:52:49.850","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 09:52:59.679","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 09:53:03.095","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 09:53:32.009","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 09:53:33.842","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 09:53:35.631","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 09:53:37.416","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 09:53:43.641","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 09:53:45.436","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 09:53:47.164","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 09:53:48.847","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 09:54:34.794","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 09:54:45.803","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 09:55:07.334","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 09:56:33.704","file":"apiserver/main.go:62","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-27 09:56:34.211","file":"apiserver/main.go:45","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-27 09:56:40.789","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 09:56:40.810","file":"user/list.go:22","msg":"User List funcation params:Username:, Offset:%!s(int=0), Limit:%!s(int=0)"}
+{"level":"INFO","timestamp":"2019-07-27 09:57:02.079","file":"apiserver/main.go:62","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-27 09:57:02.082","file":"apiserver/main.go:45","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-27 09:57:04.289","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 09:57:04.290","file":"user/list.go:22","msg":"User List funcation params:Username:, Offset:0, Limit:0"}
+{"level":"INFO","timestamp":"2019-07-27 09:57:39.184","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 09:57:39.185","file":"user/list.go:22","msg":"User List funcation params:Username:, Offset:0, Limit:0"}
+{"level":"INFO","timestamp":"2019-07-27 09:59:24.023","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 09:59:24.023","file":"user/list.go:22","msg":"User List funcation params:Username:, Offset:0, Limit:0"}
+{"level":"INFO","timestamp":"2019-07-27 09:59:42.519","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 09:59:42.519","file":"user/list.go:22","msg":"User List funcation params:Username:, Offset:0, Limit:0"}
+{"level":"INFO","timestamp":"2019-07-27 10:13:36.432","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 10:13:36.432","file":"user/list.go:22","msg":"User List funcation params:Username:, Offset:0, Limit:0"}
+{"level":"INFO","timestamp":"2019-07-27 10:15:32.223","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 10:15:32.224","file":"user/list.go:22","msg":"User List funcation params:Username:, Offset:0, Limit:0"}
+{"level":"INFO","timestamp":"2019-07-27 10:15:48.424","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 10:15:48.424","file":"user/list.go:22","msg":"User List funcation params:Username:, Offset:0, Limit:0"}
+{"level":"INFO","timestamp":"2019-07-27 10:34:15.713","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 10:34:15.713","file":"user/list.go:22","msg":"User List funcation params:Username:, Offset:0, Limit:0"}
+{"level":"INFO","timestamp":"2019-07-27 10:34:30.552","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 10:34:30.552","file":"user/list.go:22","msg":"User List funcation params:Username:, Offset:0, Limit:0"}
+{"level":"INFO","timestamp":"2019-07-27 10:42:03.047","file":"apiserver/main.go:62","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-27 10:42:03.055","file":"apiserver/main.go:45","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-27 10:42:35.782","file":"apiserver/main.go:62","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-27 10:42:36.286","file":"apiserver/main.go:45","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-27 10:43:00.267","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 10:43:00.268","file":"user/list.go:22","msg":"User List funcation params:Username:, Offset:0, Limit:0"}
+{"level":"INFO","timestamp":"2019-07-27 10:44:08.062","file":"user/create.go:14","msg":"User Create function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 10:44:59.475","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 10:44:59.475","file":"user/list.go:22","msg":"User List funcation params:Username:, Offset:0, Limit:0"}
+{"level":"INFO","timestamp":"2019-07-27 10:45:06.259","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 10:45:06.259","file":"user/list.go:22","msg":"User List funcation params:Username:, Offset:0, Limit:0"}
+{"level":"INFO","timestamp":"2019-07-27 10:45:38.804","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 10:45:38.804","file":"user/list.go:22","msg":"User List funcation params:Username:, Offset:0, Limit:0"}
+{"level":"INFO","timestamp":"2019-07-27 10:45:47.177","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 10:45:47.178","file":"user/list.go:22","msg":"User List funcation params:Username:, Offset:0, Limit:0"}
+{"level":"INFO","timestamp":"2019-07-27 10:46:18.446","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 10:46:18.446","file":"user/list.go:22","msg":"User List funcation params:Username:, Offset:0, Limit:0"}
+{"level":"INFO","timestamp":"2019-07-27 10:46:26.490","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 10:46:26.490","file":"user/list.go:22","msg":"User List funcation params:Username:, Offset:0, Limit:0"}
+{"level":"INFO","timestamp":"2019-07-27 10:55:12.666","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 10:55:12.666","file":"user/list.go:22","msg":"User List funcation params:Username:, Offset:0, Limit:0"}
+{"level":"INFO","timestamp":"2019-07-27 10:55:21.538","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 10:55:21.540","file":"user/list.go:22","msg":"User List funcation params:Username:, Offset:0, Limit:0"}
+{"level":"INFO","timestamp":"2019-07-27 10:55:31.843","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 10:55:31.844","file":"user/list.go:22","msg":"User List funcation params:Username:, Offset:0, Limit:0"}
+{"level":"INFO","timestamp":"2019-07-27 10:56:25.424","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 10:56:25.424","file":"user/list.go:22","msg":"User List funcation params:Username:, Offset:0, Limit:0"}
+{"level":"INFO","timestamp":"2019-07-27 10:56:30.778","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 10:56:30.778","file":"user/list.go:22","msg":"User List funcation params:Username:, Offset:0, Limit:0"}
+{"level":"INFO","timestamp":"2019-07-27 10:56:43.582","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 10:56:43.582","file":"user/list.go:22","msg":"User List funcation params:Username:, Offset:0, Limit:0"}
+{"level":"INFO","timestamp":"2019-07-27 10:57:32.731","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 10:57:32.732","file":"user/list.go:22","msg":"User List funcation params:Username:, Offset:0, Limit:0"}
+{"level":"INFO","timestamp":"2019-07-27 10:57:45.678","file":"apiserver/main.go:62","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-27 10:57:45.682","file":"apiserver/main.go:45","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-27 10:57:49.098","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 10:57:49.098","file":"user/list.go:22","msg":"User List funcation params:Username:, Offset:0, Limit:0"}
+{"level":"INFO","timestamp":"2019-07-27 10:58:12.128","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 10:58:12.129","file":"user/list.go:22","msg":"User List funcation params:Username:, Offset:0, Limit:0"}
+{"level":"INFO","timestamp":"2019-07-27 10:58:27.882","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 10:58:27.883","file":"user/list.go:22","msg":"User List funcation params:Username:, Offset:0, Limit:0"}
+{"level":"INFO","timestamp":"2019-07-27 10:58:33.512","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 10:58:33.513","file":"user/list.go:22","msg":"User List funcation params:Username:, Offset:0, Limit:0"}
+{"level":"INFO","timestamp":"2019-07-27 10:58:47.910","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 10:58:47.911","file":"user/list.go:22","msg":"User List funcation params:Username:, Offset:0, Limit:0"}
+{"level":"INFO","timestamp":"2019-07-27 11:00:35.621","file":"user/create.go:14","msg":"User Create function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 11:00:47.414","file":"apiserver/main.go:62","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-27 11:00:47.419","file":"apiserver/main.go:45","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-27 11:00:49.796","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 11:00:49.805","file":"user/list.go:22","msg":"User List funcation params:Username:ad3mi3n2, Offset:50, Limit:20"}
+{"level":"INFO","timestamp":"2019-07-27 11:49:50.817","file":"apiserver/main.go:62","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-27 11:49:50.822","file":"apiserver/main.go:45","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-27 11:49:52.950","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 11:49:52.951","file":"user/list.go:21","msg":"User List funcation params:Username:, Offset:0, Limit:0"}
+{"level":"INFO","timestamp":"2019-07-27 11:50:12.081","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 11:50:12.081","file":"user/list.go:21","msg":"User List funcation params:Username:, Offset:0, Limit:0"}
+{"level":"INFO","timestamp":"2019-07-27 11:50:40.343","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 11:50:40.343","file":"user/list.go:21","msg":"User List funcation params:Username:aaa, Offset:50, Limit:50"}
+{"level":"INFO","timestamp":"2019-07-27 11:51:00.630","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 11:51:00.631","file":"user/list.go:21","msg":"User List funcation params:Username:, Offset:50, Limit:50"}
+{"level":"INFO","timestamp":"2019-07-27 11:51:30.439","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 11:51:30.439","file":"user/list.go:21","msg":"User List funcation params:Username:, Offset:50, Limit:50"}
+{"level":"INFO","timestamp":"2019-07-27 11:51:57.829","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 11:51:57.830","file":"user/list.go:21","msg":"User List funcation params:Username:, Offset:50, Limit:50"}
+{"level":"INFO","timestamp":"2019-07-27 11:52:07.803","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 11:52:07.803","file":"user/list.go:21","msg":"User List funcation params:Username:, Offset:50, Limit:50"}
+{"level":"INFO","timestamp":"2019-07-27 12:03:52.174","file":"apiserver/main.go:62","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-27 12:03:52.677","file":"apiserver/main.go:45","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-27 12:04:15.689","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 12:04:15.689","file":"user/list.go:21","msg":"User List funcation params:Username:, Offset:50, Limit:50"}
+{"level":"INFO","timestamp":"2019-07-27 12:04:35.803","file":"user/get.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 12:05:45.484","file":"apiserver/main.go:62","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-27 12:05:45.488","file":"apiserver/main.go:45","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-27 12:05:53.132","file":"user/get.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 12:05:58.855","file":"user/get.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 12:06:18.497","file":"user/get.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 12:06:36.571","file":"apiserver/main.go:62","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-27 12:06:36.575","file":"apiserver/main.go:45","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-27 12:06:38.334","file":"user/get.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 12:07:17.491","file":"apiserver/main.go:62","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-27 12:07:17.996","file":"apiserver/main.go:45","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-27 12:07:23.217","file":"user/get.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 12:07:28.906","file":"user/get.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 14:19:07.088","file":"apiserver/main.go:62","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-27 14:19:07.591","file":"apiserver/main.go:45","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-27 14:20:59.064","file":"apiserver/main.go:65","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-27 14:20:59.069","file":"apiserver/main.go:48","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-27 14:21:10.443","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 14:21:10.443","file":"user/list.go:21","msg":"User List funcation params:Username:, Offset:50, Limit:50"}
+{"level":"INFO","timestamp":"2019-07-27 14:22:22.337","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 14:22:22.337","file":"user/list.go:21","msg":"User List funcation params:Username:, Offset:50, Limit:50"}
+{"level":"INFO","timestamp":"2019-07-27 14:22:32.237","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 14:22:32.237","file":"user/list.go:21","msg":"User List funcation params:Username:, Offset:0, Limit:50"}
+{"level":"INFO","timestamp":"2019-07-27 14:22:39.897","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 14:22:39.897","file":"user/list.go:21","msg":"User List funcation params:Username:, Offset:0, Limit:50"}
+{"level":"INFO","timestamp":"2019-07-27 14:23:23.625","file":"apiserver/main.go:65","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-27 14:23:23.630","file":"apiserver/main.go:48","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-27 14:23:25.189","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 14:23:25.189","file":"user/list.go:21","msg":"User List funcation params:Username:, Offset:0, Limit:50"}
+{"level":"ERROR","timestamp":"2019-07-27 14:23:25.982","file":"middleware/logging.go:65","msg":"response body can not Unmarshal to model.Response struct :``","data":{"error":"unexpected end of JSON input"}}
+{"level":"INFO","timestamp":"2019-07-27 14:23:25.982","file":"middleware/logging.go:73","msg":"792.5582ms    | 127.0.0.1    | GET /v1/user | {code: 10001, message: unexpected end of JSON input}"}
+{"level":"INFO","timestamp":"2019-07-27 14:24:43.026","file":"apiserver/main.go:65","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-27 14:24:43.531","file":"apiserver/main.go:48","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-27 14:24:45.801","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 14:24:45.801","file":"user/list.go:21","msg":"User List funcation params:Username:, Offset:0, Limit:50"}
+{"level":"ERROR","timestamp":"2019-07-27 14:24:46.384","file":"middleware/logging.go:65","msg":"response body can not Unmarshal to model.Response struct :`##`","data":{"error":"unexpected end of JSON input"}}
+{"level":"INFO","timestamp":"2019-07-27 14:24:46.385","file":"middleware/logging.go:73","msg":"583.067ms     | 127.0.0.1    | GET /v1/user | {code: 10001, message: unexpected end of JSON input}"}
+{"level":"INFO","timestamp":"2019-07-27 15:09:05.282","file":"user/create.go:14","msg":"User Create function called.","data":{"X-Request-Id:":""}}
+{"level":"ERROR","timestamp":"2019-07-27 15:09:05.459","file":"middleware/logging.go:65","msg":"response body can not Unmarshal to model.Response struct :`##`","data":{"error":"unexpected end of JSON input"}}
+{"level":"INFO","timestamp":"2019-07-27 15:09:05.459","file":"middleware/logging.go:73","msg":"177.0024ms    | 127.0.0.1    | POST /v1/user | {code: 10001, message: unexpected end of JSON input}"}
+{"level":"INFO","timestamp":"2019-07-27 15:09:16.136","file":"user/create.go:14","msg":"User Create function called.","data":{"X-Request-Id:":""}}
+{"level":"ERROR","timestamp":"2019-07-27 15:09:16.289","file":"middleware/logging.go:65","msg":"response body can not Unmarshal to model.Response struct :`##`","data":{"error":"unexpected end of JSON input"}}
+{"level":"INFO","timestamp":"2019-07-27 15:09:16.290","file":"middleware/logging.go:73","msg":"152.999ms     | 127.0.0.1    | POST /v1/user | {code: 10001, message: unexpected end of JSON input}"}
+{"level":"INFO","timestamp":"2019-07-27 15:10:53.847","file":"apiserver/main.go:65","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-27 15:10:53.854","file":"apiserver/main.go:48","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-27 15:10:56.635","file":"user/create.go:14","msg":"User Create function called.","data":{"X-Request-Id:":""}}
+{"level":"ERROR","timestamp":"2019-07-27 15:10:56.859","file":"middleware/logging.go:66","msg":"response body can not Unmarshal to model.Response struct :`##`","data":{"error":"unexpected end of JSON input"}}
+{"level":"INFO","timestamp":"2019-07-27 15:10:56.859","file":"middleware/logging.go:74","msg":"223.5912ms    | 127.0.0.1    | POST /v1/user | {code: 10001, message: unexpected end of JSON input}"}
+{"level":"INFO","timestamp":"2019-07-27 15:11:23.581","file":"apiserver/main.go:65","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-27 15:11:24.085","file":"apiserver/main.go:48","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-27 15:11:28.751","file":"user/create.go:14","msg":"User Create function called.","data":{"X-Request-Id:":""}}
+{"level":"ERROR","timestamp":"2019-07-27 15:11:28.925","file":"middleware/logging.go:66","msg":"response body can not Unmarshal to model.Response struct :`##`","data":{"error":"unexpected end of JSON input"}}
+{"level":"INFO","timestamp":"2019-07-27 15:11:28.925","file":"middleware/logging.go:74","msg":"174.0106ms    | 127.0.0.1    | POST /v1/user | {code: 10001, message: unexpected end of JSON input}"}
+{"level":"INFO","timestamp":"2019-07-27 15:11:41.451","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-27 15:11:41.462","file":"user/list.go:21","msg":"User List funcation params:Username:, Offset:0, Limit:50"}
+{"level":"ERROR","timestamp":"2019-07-27 15:11:42.051","file":"middleware/logging.go:66","msg":"response body can not Unmarshal to model.Response struct :`##`","data":{"error":"unexpected end of JSON input"}}
+{"level":"INFO","timestamp":"2019-07-27 15:11:42.051","file":"middleware/logging.go:74","msg":"599.0344ms    | 127.0.0.1    | GET /v1/user | {code: 10001, message: unexpected end of JSON input}"}
+{"level":"INFO","timestamp":"2019-07-29 09:18:15.741","file":"apiserver/main.go:65","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-29 09:18:15.747","file":"apiserver/main.go:48","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-29 09:19:15.189","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-29 09:19:15.190","file":"user/list.go:21","msg":"User List funcation params:Username:, Offset:0, Limit:50"}
+{"level":"ERROR","timestamp":"2019-07-29 09:19:17.832","file":"middleware/logging.go:66","msg":"response body can not Unmarshal to model.Response struct :`##`","data":{"error":"unexpected end of JSON input"}}
+{"level":"INFO","timestamp":"2019-07-29 09:19:17.833","file":"middleware/logging.go:74","msg":"2.6431207s    | 127.0.0.1    | GET /v1/user | {code: 10001, message: unexpected end of JSON input}"}
+{"level":"INFO","timestamp":"2019-07-29 09:21:01.273","file":"apiserver/main.go:65","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-29 09:21:01.779","file":"apiserver/main.go:48","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-29 09:21:05.899","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-29 09:21:05.900","file":"user/list.go:21","msg":"User List funcation params:Username:, Offset:0, Limit:50"}
+{"level":"ERROR","timestamp":"2019-07-29 09:21:06.665","file":"middleware/logging.go:74","msg":"response body can not unmarshal to model.Response struct, body: ``","data":{"error":"unexpected end of JSON input"}}
+{"level":"INFO","timestamp":"2019-07-29 09:21:06.665","file":"middleware/logging.go:82","msg":"765.7739ms    | 127.0.0.1    | GET /v1/user | {code: 10001, message: unexpected end of JSON input}"}
+{"level":"INFO","timestamp":"2019-07-29 09:22:19.387","file":"apiserver/main.go:65","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-29 09:22:19.391","file":"apiserver/main.go:48","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-29 09:22:22.779","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-29 09:22:22.780","file":"user/list.go:21","msg":"User List funcation params:Username:, Offset:0, Limit:50"}
+{"level":"ERROR","timestamp":"2019-07-29 09:22:23.570","file":"middleware/logging.go:77","msg":"response body can not unmarshal to model.Response struct, body: `sss`","data":{"error":"invalid character 's' looking for beginning of value"}}
+{"level":"INFO","timestamp":"2019-07-29 09:22:23.571","file":"middleware/logging.go:85","msg":"791.1366ms    | 127.0.0.1    | GET /v1/user | {code: 10001, message: invalid character 's' looking for beginning of value}"}
+{"level":"INFO","timestamp":"2019-07-29 09:22:53.632","file":"apiserver/main.go:65","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-29 09:22:53.637","file":"apiserver/main.go:48","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-29 09:22:57.841","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":""}}
+{"level":"INFO","timestamp":"2019-07-29 09:22:57.841","file":"user/list.go:21","msg":"User List funcation params:Username:, Offset:0, Limit:50"}
+{"level":"ERROR","timestamp":"2019-07-29 09:22:58.457","file":"middleware/logging.go:77","msg":"response body can not unmarshal to model.Response struct, body: ``","data":{"error":"unexpected end of JSON input"}}
+{"level":"INFO","timestamp":"2019-07-29 09:22:58.458","file":"middleware/logging.go:85","msg":"615.6255ms    | 127.0.0.1    | GET /v1/user | {code: 10001, message: unexpected end of JSON input}"}
+{"level":"INFO","timestamp":"2019-07-29 09:37:54.116","file":"apiserver/main.go:65","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-29 09:37:54.120","file":"apiserver/main.go:48","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-29 09:38:00.231","file":"apiserver/main.go:66","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-29 09:38:00.241","file":"apiserver/main.go:49","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-29 09:38:05.135","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":"77bc749d-a376-4c5e-ac04-a27a2643beff"}}
+{"level":"INFO","timestamp":"2019-07-29 09:38:05.136","file":"user/list.go:21","msg":"User List funcation params:Username:, Offset:0, Limit:50"}
+{"level":"ERROR","timestamp":"2019-07-29 09:38:05.966","file":"middleware/logging.go:77","msg":"response body can not unmarshal to model.Response struct, body: ``","data":{"error":"unexpected end of JSON input"}}
+{"level":"INFO","timestamp":"2019-07-29 09:38:05.966","file":"middleware/logging.go:85","msg":"830.6841ms    | 127.0.0.1    | GET /v1/user | {code: 10001, message: unexpected end of JSON input}"}
+{"level":"INFO","timestamp":"2019-07-29 09:38:37.590","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":"eac67e87-0ee2-4f9d-8f8f-76e0cc9f0bfb"}}
+{"level":"INFO","timestamp":"2019-07-29 09:38:37.591","file":"user/list.go:21","msg":"User List funcation params:Username:, Offset:0, Limit:50"}
+{"level":"ERROR","timestamp":"2019-07-29 09:38:38.511","file":"middleware/logging.go:77","msg":"response body can not unmarshal to model.Response struct, body: ``","data":{"error":"unexpected end of JSON input"}}
+{"level":"INFO","timestamp":"2019-07-29 09:38:38.512","file":"middleware/logging.go:85","msg":"921.1184ms    | 127.0.0.1    | GET /v1/user | {code: 10001, message: unexpected end of JSON input}"}
+{"level":"INFO","timestamp":"2019-07-29 09:48:07.401","file":"apiserver/main.go:66","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-29 09:48:07.409","file":"apiserver/main.go:49","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-29 09:48:10.918","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":"a27b36fd-f0fd-4b60-a220-b06b74424703"}}
+{"level":"INFO","timestamp":"2019-07-29 09:48:10.918","file":"user/list.go:21","msg":"User List funcation params:Username:, Offset:0, Limit:50"}
+{"level":"ERROR","timestamp":"2019-07-29 09:50:11.353","file":"middleware/logging.go:77","msg":"response body can not unmarshal to model.Response struct, body: ``","data":{"error":"unexpected end of JSON input"}}
+{"level":"INFO","timestamp":"2019-07-29 09:50:24.475","file":"middleware/logging.go:85","msg":"1m10.9175025s | 127.0.0.1    | GET /v1/user | {code: 10001, message: unexpected end of JSON input}"}
+{"level":"INFO","timestamp":"2019-07-29 09:51:53.827","file":"apiserver/main.go:66","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-29 09:51:54.408","file":"apiserver/main.go:49","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-29 09:51:57.079","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":"1b973c22-6261-481c-ae6b-ad79f2529b7e"}}
+{"level":"INFO","timestamp":"2019-07-29 09:51:57.079","file":"user/list.go:21","msg":"User List funcation params:Username:, Offset:0, Limit:50"}
+{"level":"INFO","timestamp":"2019-07-29 09:52:29.293","file":"middleware/logging.go:85","msg":"7.7441298s    | 127.0.0.1    | GET /v1/user | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-29 09:52:54.025","file":"apiserver/main.go:66","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-29 09:52:54.637","file":"apiserver/main.go:49","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-29 09:53:20.345","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":"4430bd9c-f380-4658-a5b2-94ca0a6d1a13"}}
+{"level":"INFO","timestamp":"2019-07-29 09:53:20.345","file":"user/list.go:21","msg":"User List funcation params:Username:, Offset:0, Limit:50"}
+{"level":"INFO","timestamp":"2019-07-29 09:53:21.495","file":"middleware/logging.go:85","msg":"1.1490047s    | 127.0.0.1    | GET /v1/user | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-29 11:20:49.424","file":"apiserver/main.go:66","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-29 11:20:49.936","file":"apiserver/main.go:49","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-29 11:22:34.398","file":"user/create.go:14","msg":"User Create function called.","data":{"X-Request-Id:":"9aae9ae9-9729-4604-93bf-a5823b36ad97"}}
+{"level":"INFO","timestamp":"2019-07-29 11:22:34.652","file":"middleware/logging.go:85","msg":"254.0006ms    | 127.0.0.1    | POST /v1/user | {code: 20002, message: Database error.}"}
+{"level":"INFO","timestamp":"2019-07-29 11:22:57.957","file":"apiserver/main.go:66","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-29 11:22:58.482","file":"apiserver/main.go:49","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-29 11:23:04.621","file":"middleware/logging.go:85","msg":"34.9967ms     | 127.0.0.1    | POST /login | {code: 20104, message: The password was incorrect.}"}
+{"level":"INFO","timestamp":"2019-07-29 11:23:57.139","file":"config/config.go:62","msg":"Config file changed:E:\\workspace\\go\\src\\apiserver\\conf\\config.yaml"}
+{"level":"INFO","timestamp":"2019-07-29 11:24:03.346","file":"apiserver/main.go:66","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-29 11:24:03.358","file":"apiserver/main.go:49","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-29 11:24:15.087","file":"middleware/logging.go:85","msg":"52.9954ms     | 127.0.0.1    | POST /login | {code: 20104, message: The password was incorrect.}"}
+{"level":"INFO","timestamp":"2019-07-29 11:24:17.837","file":"middleware/logging.go:85","msg":"20.9998ms     | 127.0.0.1    | POST /login | {code: 20104, message: The password was incorrect.}"}
+{"level":"INFO","timestamp":"2019-07-29 11:24:22.475","file":"middleware/logging.go:85","msg":"86.9952ms     | 127.0.0.1    | POST /login | {code: 20102, message: The user was not found.}"}
+{"level":"INFO","timestamp":"2019-07-29 11:24:29.427","file":"middleware/logging.go:85","msg":"187.9972ms    | 127.0.0.1    | POST /login | {code: 20104, message: The password was incorrect.}"}
+{"level":"INFO","timestamp":"2019-07-29 11:26:18.192","file":"user/create.go:14","msg":"User Create function called.","data":{"X-Request-Id:":"4aef5248-c404-4925-b1da-785162bb1ee1"}}
+{"level":"INFO","timestamp":"2019-07-29 11:26:18.580","file":"middleware/logging.go:85","msg":"388.0386ms    | 127.0.0.1    | POST /v1/user | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-29 11:27:27.874","file":"middleware/logging.go:85","msg":"118.9999ms    | 127.0.0.1    | POST /login | {code: 20003, message: Error occurred while signing the JSON web token.}"}
+{"level":"INFO","timestamp":"2019-07-29 11:29:45.731","file":"apiserver/main.go:66","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-29 11:29:45.744","file":"apiserver/main.go:49","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-29 11:32:32.066","file":"middleware/logging.go:85","msg":"189.9992ms    | 127.0.0.1    | POST /login | {code: 20003, message: Error occurred while signing the JSON web token.}"}
+{"level":"INFO","timestamp":"2019-07-29 11:37:03.628","file":"apiserver/main.go:66","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-29 11:37:03.634","file":"apiserver/main.go:49","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-29 11:37:06.781","file":"middleware/logging.go:85","msg":"165.9969ms    | 127.0.0.1    | POST /login | {code: 20003, message: Error occurred while signing the JSON web token.}"}
+{"level":"INFO","timestamp":"2019-07-29 11:54:43.807","file":"apiserver/main.go:66","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-29 11:54:43.819","file":"apiserver/main.go:49","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-29 11:54:53.939","file":"middleware/logging.go:85","msg":"431.3701ms    | 127.0.0.1    | POST /login | {code: 20003, message: Error occurred while signing the JSON web token.}"}
+{"level":"INFO","timestamp":"2019-07-29 11:56:09.465","file":"apiserver/main.go:66","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-29 11:56:09.474","file":"apiserver/main.go:49","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-29 11:56:13.264","file":"middleware/logging.go:85","msg":"339.9935ms    | 127.0.0.1    | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-29 11:57:55.224","file":"apiserver/main.go:66","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-29 11:57:55.231","file":"apiserver/main.go:49","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-29 11:57:57.617","file":"middleware/logging.go:85","msg":"183.9978ms    | 127.0.0.1    | POST /login | {code: 20003, message: Error occurred while signing the JSON web token.}"}
+{"level":"INFO","timestamp":"2019-07-29 11:59:03.486","file":"apiserver/main.go:66","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-29 11:59:03.493","file":"apiserver/main.go:49","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-29 11:59:07.394","file":"middleware/logging.go:85","msg":"159.9975ms    | 127.0.0.1    | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-29 11:59:09.377","file":"middleware/logging.go:85","msg":"177.9991ms    | 127.0.0.1    | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-29 11:59:42.518","file":"apiserver/main.go:66","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-29 11:59:42.528","file":"apiserver/main.go:49","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-29 11:59:46.164","file":"middleware/logging.go:85","msg":"199.9949ms    | 127.0.0.1    | POST /login | {code: 20003, message: Error occurred while signing the JSON web token.}"}
+{"level":"INFO","timestamp":"2019-07-29 11:59:48.173","file":"middleware/logging.go:85","msg":"155.4757ms    | 127.0.0.1    | POST /login | {code: 20003, message: Error occurred while signing the JSON web token.}"}
+{"level":"INFO","timestamp":"2019-07-29 11:59:49.599","file":"middleware/logging.go:85","msg":"239.1005ms    | 127.0.0.1    | POST /login | {code: 20003, message: Error occurred while signing the JSON web token.}"}
+{"level":"INFO","timestamp":"2019-07-29 12:00:48.819","file":"apiserver/main.go:66","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-29 12:00:48.837","file":"apiserver/main.go:49","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-29 12:00:51.708","file":"middleware/logging.go:85","msg":"146.9988ms    | 127.0.0.1    | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-29 12:00:54.160","file":"middleware/logging.go:85","msg":"203.0021ms    | 127.0.0.1    | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-29 12:00:55.593","file":"middleware/logging.go:85","msg":"244.001ms     | 127.0.0.1    | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-29 12:00:57.241","file":"middleware/logging.go:85","msg":"307.0024ms    | 127.0.0.1    | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-29 12:00:58.546","file":"middleware/logging.go:85","msg":"444.0492ms    | 127.0.0.1    | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-29 12:00:59.551","file":"middleware/logging.go:85","msg":"232.9987ms    | 127.0.0.1    | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-29 12:01:02.305","file":"middleware/logging.go:85","msg":"189.9979ms    | 127.0.0.1    | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-29 12:01:03.708","file":"middleware/logging.go:85","msg":"183.9895ms    | 127.0.0.1    | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-29 12:01:04.796","file":"middleware/logging.go:85","msg":"203.5242ms    | 127.0.0.1    | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-29 12:01:10.550","file":"middleware/logging.go:85","msg":"202.5153ms    | 127.0.0.1    | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-29 12:01:11.685","file":"middleware/logging.go:85","msg":"155.9964ms    | 127.0.0.1    | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-29 12:01:12.885","file":"middleware/logging.go:85","msg":"232.116ms     | 127.0.0.1    | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-29 12:01:14.181","file":"middleware/logging.go:85","msg":"220.5217ms    | 127.0.0.1    | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-29 12:02:16.472","file":"user/create.go:14","msg":"User Create function called.","data":{"X-Request-Id:":"39edfd51-beed-4a70-adb7-316627fe20d2"}}
+{"level":"INFO","timestamp":"2019-07-29 12:02:16.626","file":"middleware/logging.go:85","msg":"154.0001ms    | 127.0.0.1    | POST /v1/user | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-29 13:19:00.373","file":"apiserver/main.go:66","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-29 13:19:00.385","file":"apiserver/main.go:49","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-29 13:19:09.063","file":"middleware/logging.go:85","msg":"0s            | 127.0.0.1    | POST /v1/user | {code: 20103, message: The token was invalid.}"}
+{"level":"INFO","timestamp":"2019-07-29 13:19:15.959","file":"middleware/logging.go:85","msg":"258.579ms     | 127.0.0.1    | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-29 13:19:48.154","file":"middleware/logging.go:85","msg":"996.1µs       | 127.0.0.1    | POST /v1/user | {code: 20103, message: The token was invalid.}"}
+{"level":"INFO","timestamp":"2019-07-29 13:20:02.434","file":"user/create.go:14","msg":"User Create function called.","data":{"X-Request-Id:":"afd5de1d-7be3-4a44-bdc4-a6a30facdd92"}}
+{"level":"INFO","timestamp":"2019-07-29 13:20:02.603","file":"middleware/logging.go:85","msg":"172.9949ms    | 127.0.0.1    | POST /v1/user | {code: 20002, message: Database error.}"}
+{"level":"INFO","timestamp":"2019-07-29 13:20:28.696","file":"user/create.go:14","msg":"User Create function called.","data":{"X-Request-Id:":"64aa1e70-0b1d-4a26-96a2-dfeb22919dff"}}
+{"level":"INFO","timestamp":"2019-07-29 13:20:28.929","file":"middleware/logging.go:85","msg":"234.1021ms    | 127.0.0.1    | POST /v1/user | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-29 13:20:35.362","file":"middleware/logging.go:85","msg":"0s            | 127.0.0.1    | POST /v1/user | {code: 20103, message: The token was invalid.}"}
+{"level":"INFO","timestamp":"2019-07-29 13:20:41.748","file":"middleware/logging.go:85","msg":"0s            | 127.0.0.1    | POST /v1/user | {code: 20103, message: The token was invalid.}"}
+{"level":"INFO","timestamp":"2019-07-29 13:20:47.849","file":"user/create.go:14","msg":"User Create function called.","data":{"X-Request-Id:":"f6e2b01f-4fd0-4478-948e-cc3d6e7f5da9"}}
+{"level":"INFO","timestamp":"2019-07-29 13:20:48.079","file":"middleware/logging.go:85","msg":"229.9952ms    | 127.0.0.1    | POST /v1/user | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 10:30:01.977","file":"apiserver/main.go:90","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-30 10:30:02.485","file":"apiserver/main.go:85","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-30 10:30:38.885","file":"middleware/logging.go:83","msg":"216.0024ms    | 127.0.0.1    | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 12:02:58.985","file":"apiserver/main.go:90","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-30 12:02:58.990","file":"apiserver/main.go:101","msg":"Waiting for the reouter, retry in 1 second"}
+{"level":"INFO","timestamp":"2019-07-30 12:03:00.045","file":"apiserver/main.go:101","msg":"Waiting for the reouter, retry in 1 second"}
+{"level":"FATAL","timestamp":"2019-07-30 12:03:01.048","file":"apiserver/main.go:83","msg":"The router has no response, or it might took too long to start up.","data":{"error":"Cannot connect to the router.","trace":"goroutine 15 [running]:\nvendor/github.com/lexkong/log/lager.(*logger).logs(0xc000044a80, 0xc0002eea60, 0x2, 0x2, 0x4, 0xc2e1f6, 0x42, 0xd156c0, 0xc0002eea40, 0x0, ...)\n\tE:/workspace/go/src/vendor/github.com/lexkong/log/lager/logger.go:135 +0x8e5\nvendor/github.com/lexkong/log/lager.(*logger).log(0xc000044a80, 0x4, 0xc2e1f6, 0x42, 0xd156c0, 0xc0002eea40, 0x0, 0x0, 0x0)\n\tE:/workspace/go/src/vendor/github.com/lexkong/log/lager/logger.go:123 +0xe0\nvendor/github.com/lexkong/log/lager.(*logger).Fatal(0xc000044a80, 0xc2e1f6, 0x42, 0xd156c0, 0xc0002eea40, 0x0, 0x0, 0x0)\n\tE:/workspace/go/src/vendor/github.com/lexkong/log/lager/logger.go:197 +0x8a\nvendor/github.com/lexkong/log.Fatal(...)\n\tE:/workspace/go/src/vendor/github.com/lexkong/log/st_lager.go:162\nmain.main.func1()\n\tE:/workspace/go/src/apiserver/main.go:83 +0xcd\ncreated by main.main\n\tE:/workspace/go/src/apiserver/main.go:81 +0x1f6\n"}}
+{"level":"INFO","timestamp":"2019-07-30 12:34:21.835","file":"apiserver/main.go:90","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-30 12:34:22.345","file":"apiserver/main.go:85","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-30 13:16:52.752","file":"apiserver/main.go:100","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-30 13:16:52.754","file":"apiserver/main.go:93","msg":"Start to listening the incoming requests on https address: 8081"}
+{"level":"INFO","timestamp":"2019-07-30 13:16:52.754","file":"apiserver/main.go:94","msg":"listen tcp: address 8081: missing port in address"}
+{"level":"INFO","timestamp":"2019-07-30 13:16:53.268","file":"apiserver/main.go:85","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-30 13:17:03.744","file":"middleware/logging.go:83","msg":"125.0177ms    | 127.0.0.1    | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 13:18:30.233","file":"config/config.go:62","msg":"Config file changed:E:\\workspace\\go\\src\\apiserver\\conf\\config.yaml"}
+{"level":"INFO","timestamp":"2019-07-30 13:18:40.758","file":"apiserver/main.go:100","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-30 13:18:40.760","file":"apiserver/main.go:93","msg":"Start to listening the incoming requests on https address: :8081"}
+{"level":"INFO","timestamp":"2019-07-30 13:18:41.262","file":"apiserver/main.go:85","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-30 13:18:51.827","file":"middleware/logging.go:83","msg":"188.0319ms    | 127.0.0.1    | POST /login | {code: 0, message: OK}"}
+{"level":"ERROR","timestamp":"2019-07-30 13:24:31.907","file":"middleware/logging.go:75","msg":"response body can not unmarshal to model.Response struct, body: ``","data":{"error":"unexpected end of JSON input"}}
+{"level":"INFO","timestamp":"2019-07-30 13:24:31.907","file":"middleware/logging.go:83","msg":"0s            | 10.0.75.2    | GET /login | {code: 10001, message: unexpected end of JSON input}"}
+{"level":"ERROR","timestamp":"2019-07-30 13:24:37.235","file":"middleware/logging.go:75","msg":"response body can not unmarshal to model.Response struct, body: ``","data":{"error":"unexpected end of JSON input"}}
+{"level":"INFO","timestamp":"2019-07-30 13:24:37.238","file":"middleware/logging.go:83","msg":"0s            | 10.0.75.2    | GET /login | {code: 10001, message: unexpected end of JSON input}"}
+{"level":"INFO","timestamp":"2019-07-30 13:24:52.711","file":"middleware/logging.go:83","msg":"98.011ms      | 10.0.75.2    | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 13:27:47.110","file":"middleware/logging.go:83","msg":"106.0098ms    | 10.0.75.2    | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 13:27:53.167","file":"middleware/logging.go:83","msg":"95.0091ms     | 10.0.75.2    | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 13:27:54.290","file":"middleware/logging.go:83","msg":"96.0123ms     | 10.0.75.2    | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 13:28:13.755","file":"middleware/logging.go:83","msg":"126.0124ms    | 10.0.75.2    | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 13:28:15.344","file":"middleware/logging.go:83","msg":"96.0083ms     | 10.0.75.2    | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 13:28:16.150","file":"middleware/logging.go:83","msg":"100.0226ms    | 10.0.75.2    | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 13:28:16.885","file":"middleware/logging.go:83","msg":"104.0101ms    | 10.0.75.2    | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 13:28:17.595","file":"middleware/logging.go:83","msg":"94.9978ms     | 10.0.75.2    | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 13:28:18.310","file":"middleware/logging.go:83","msg":"100.0104ms    | 10.0.75.2    | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 13:28:19.016","file":"middleware/logging.go:83","msg":"94.0096ms     | 10.0.75.2    | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 13:28:19.688","file":"middleware/logging.go:83","msg":"91.0104ms     | 10.0.75.2    | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 13:28:20.413","file":"middleware/logging.go:83","msg":"94.0096ms     | 10.0.75.2    | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 14:00:35.130","file":"apiserver/main.go:98","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-30 14:00:35.638","file":"apiserver/main.go:85","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-30 14:00:43.259","file":"middleware/logging.go:83","msg":"186.0099ms    | 127.0.0.1    | POST /login | {code: 0, message: OK}"}
+{"level":"ERROR","timestamp":"2019-07-30 06:11:09.662","file":"model/init.go:28","msg":"Database connection failed.Database name:db_apiserver","data":{"error":"dial tcp 127.0.0.1:3306: connect: connection refused"}}
+{"level":"ERROR","timestamp":"2019-07-30 06:11:09.663","file":"model/init.go:28","msg":"Database connection failed.Database name:db_apiserver","data":{"error":"dial tcp 127.0.0.1:3306: connect: connection refused"}}
+{"level":"INFO","timestamp":"2019-07-30 06:11:09.664","file":"apiserver/main.go:98","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-30 06:11:09.695","file":"apiserver/main.go:85","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-30 06:11:26.380","file":"middleware/logging.go:83","msg":"666.4µs       | 172.18.0.1   | POST /login | {code: 20102, message: The user was not found.}"}
+{"level":"ERROR","timestamp":"2019-07-30 06:12:33.663","file":"model/init.go:28","msg":"Database connection failed.Database name:db_apiserver","data":{"error":"dial tcp 127.0.0.1:3306: connect: connection refused"}}
+{"level":"ERROR","timestamp":"2019-07-30 06:12:33.663","file":"model/init.go:28","msg":"Database connection failed.Database name:db_apiserver","data":{"error":"dial tcp 127.0.0.1:3306: connect: connection refused"}}
+{"level":"INFO","timestamp":"2019-07-30 06:12:33.664","file":"apiserver/main.go:98","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-30 06:12:33.690","file":"apiserver/main.go:85","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-30 06:13:10.545","file":"middleware/logging.go:83","msg":"872.8µs       | 172.18.0.1   | POST /login | {code: 20102, message: The user was not found.}"}
+{"level":"INFO","timestamp":"2019-07-30 06:13:36.729","file":"middleware/logging.go:83","msg":"709.9µs       | 172.18.0.1   | POST /login | {code: 20102, message: The user was not found.}"}
+{"level":"INFO","timestamp":"2019-07-30 06:13:39.953","file":"middleware/logging.go:83","msg":"806.9µs       | 172.18.0.1   | POST /login | {code: 20102, message: The user was not found.}"}
+{"level":"INFO","timestamp":"2019-07-30 06:13:47.781","file":"apiserver/main.go:98","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-30 06:13:47.800","file":"apiserver/main.go:85","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-30 06:13:50.658","file":"middleware/logging.go:83","msg":"198.2188ms    | 172.18.0.1   | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 06:13:55.442","file":"middleware/logging.go:83","msg":"185.9587ms    | 172.18.0.1   | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 06:13:57.181","file":"middleware/logging.go:83","msg":"184.2291ms    | 172.18.0.1   | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 06:14:21.771","file":"apiserver/main.go:98","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-30 06:14:21.785","file":"apiserver/main.go:85","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-30 06:14:29.913","file":"middleware/logging.go:83","msg":"162.5897ms    | 172.18.0.1   | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 06:14:31.312","file":"middleware/logging.go:83","msg":"180.4389ms    | 172.18.0.1   | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 06:14:32.270","file":"middleware/logging.go:83","msg":"173.8896ms    | 172.18.0.1   | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 06:14:33.258","file":"middleware/logging.go:83","msg":"189.3216ms    | 172.18.0.1   | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 06:14:34.005","file":"middleware/logging.go:83","msg":"186.2104ms    | 172.18.0.1   | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 06:14:51.521","file":"middleware/logging.go:83","msg":"182.6088ms    | 172.18.0.1   | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 06:14:53.201","file":"middleware/logging.go:83","msg":"232.0206ms    | 172.18.0.1   | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 06:14:53.877","file":"middleware/logging.go:83","msg":"184.7724ms    | 172.18.0.1   | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 06:14:54.466","file":"middleware/logging.go:83","msg":"186.5759ms    | 172.18.0.1   | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 06:14:55.214","file":"middleware/logging.go:83","msg":"196.1847ms    | 172.18.0.1   | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 06:14:56.025","file":"middleware/logging.go:83","msg":"183.3912ms    | 172.18.0.1   | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 06:14:56.840","file":"middleware/logging.go:83","msg":"162.0011ms    | 172.18.0.1   | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 14:41:59.638","file":"apiserver/main.go:114","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-30 14:42:00.147","file":"apiserver/main.go:101","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-30 14:42:15.907","file":"middleware/logging.go:83","msg":"175.0033ms    | 127.0.0.1    | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 14:43:29.501","file":"apiserver/main.go:114","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-30 14:43:30.010","file":"apiserver/main.go:101","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-30 14:43:39.459","file":"middleware/logging.go:83","msg":"398.0052ms    | 127.0.0.1    | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 14:43:44.307","file":"middleware/logging.go:83","msg":"334.0062ms    | 127.0.0.1    | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 14:43:46.960","file":"middleware/logging.go:83","msg":"210.003ms     | 127.0.0.1    | POST /login | {code: 0, message: OK}"}
+{"level":"ERROR","timestamp":"2019-07-30 06:46:04.684","file":"model/init.go:28","msg":"Database connection failed.Database name:db_apiserver","data":{"error":"dial tcp 127.0.0.1:3306: connect: connection refused"}}
+{"level":"ERROR","timestamp":"2019-07-30 06:46:04.685","file":"model/init.go:28","msg":"Database connection failed.Database name:db_apiserver","data":{"error":"dial tcp 127.0.0.1:3306: connect: connection refused"}}
+{"level":"INFO","timestamp":"2019-07-30 06:46:04.685","file":"apiserver/main.go:114","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-30 06:46:04.693","file":"apiserver/main.go:101","msg":"The router has been deplyed successfully."}
+{"level":"ERROR","timestamp":"2019-07-30 06:48:00.702","file":"model/init.go:28","msg":"Database connection failed.Database name:db_apiserver","data":{"error":"dial tcp 127.0.0.1:3306: connect: connection refused"}}
+{"level":"ERROR","timestamp":"2019-07-30 06:48:00.702","file":"model/init.go:28","msg":"Database connection failed.Database name:db_apiserver","data":{"error":"dial tcp 127.0.0.1:3306: connect: connection refused"}}
+{"level":"INFO","timestamp":"2019-07-30 06:48:00.703","file":"apiserver/main.go:114","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-30 06:48:00.746","file":"apiserver/main.go:101","msg":"The router has been deplyed successfully."}
+{"level":"ERROR","timestamp":"2019-07-30 07:06:24.249","file":"model/init.go:28","msg":"Database connection failed.Database name:db_apiserver","data":{"error":"dial tcp 127.0.0.1:3306: connect: connection refused"}}
+{"level":"ERROR","timestamp":"2019-07-30 07:06:24.249","file":"model/init.go:28","msg":"Database connection failed.Database name:db_apiserver","data":{"error":"dial tcp 127.0.0.1:3306: connect: connection refused"}}
+{"level":"INFO","timestamp":"2019-07-30 07:06:24.250","file":"apiserver/main.go:114","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-30 07:06:24.272","file":"apiserver/main.go:101","msg":"The router has been deplyed successfully."}
+{"level":"ERROR","timestamp":"2019-07-30 07:34:24.762","file":"model/init.go:28","msg":"Database connection failed.Database name:db_apiserver","data":{"error":"dial tcp 127.0.0.1:3306: connect: connection refused"}}
+{"level":"ERROR","timestamp":"2019-07-30 07:34:24.763","file":"model/init.go:28","msg":"Database connection failed.Database name:db_apiserver","data":{"error":"dial tcp 127.0.0.1:3306: connect: connection refused"}}
+{"level":"INFO","timestamp":"2019-07-30 07:34:24.763","file":"apiserver/main.go:114","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-30 07:34:24.785","file":"apiserver/main.go:101","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-30 07:34:52.947","file":"middleware/logging.go:83","msg":"584.2µs       | 172.18.0.1   | POST /login | {code: 20102, message: The user was not found.}"}
+{"level":"INFO","timestamp":"2019-07-30 07:34:54.125","file":"middleware/logging.go:83","msg":"310.1µs       | 172.18.0.1   | POST /login | {code: 20102, message: The user was not found.}"}
+{"level":"INFO","timestamp":"2019-07-30 07:34:55.411","file":"middleware/logging.go:83","msg":"308µs         | 172.18.0.1   | POST /login | {code: 20102, message: The user was not found.}"}
+{"level":"INFO","timestamp":"2019-07-30 07:34:56.697","file":"middleware/logging.go:83","msg":"272µs         | 172.18.0.1   | POST /login | {code: 20102, message: The user was not found.}"}
+{"level":"INFO","timestamp":"2019-07-30 07:34:57.808","file":"middleware/logging.go:83","msg":"273.8µs       | 172.18.0.1   | POST /login | {code: 20102, message: The user was not found.}"}
+{"level":"INFO","timestamp":"2019-07-30 07:34:58.851","file":"middleware/logging.go:83","msg":"266µs         | 172.18.0.1   | POST /login | {code: 20102, message: The user was not found.}"}
+{"level":"INFO","timestamp":"2019-07-30 07:34:59.835","file":"middleware/logging.go:83","msg":"295.5µs       | 172.18.0.1   | POST /login | {code: 20102, message: The user was not found.}"}
+{"level":"ERROR","timestamp":"2019-07-30 07:41:54.502","file":"model/init.go:28","msg":"Database connection failed.Database name:db_apiserver","data":{"error":"dial tcp 127.0.0.1:3306: connect: connection refused"}}
+{"level":"ERROR","timestamp":"2019-07-30 07:41:54.503","file":"model/init.go:28","msg":"Database connection failed.Database name:db_apiserver","data":{"error":"dial tcp 127.0.0.1:3306: connect: connection refused"}}
+{"level":"INFO","timestamp":"2019-07-30 07:41:54.504","file":"apiserver/main.go:114","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-30 07:41:54.532","file":"apiserver/main.go:101","msg":"The router has been deplyed successfully."}
+{"level":"ERROR","timestamp":"2019-07-30 07:43:32.013","file":"model/init.go:28","msg":"Database connection failed.Database name:db_apiserver","data":{"error":"dial tcp 127.0.0.1:3306: connect: connection refused"}}
+{"level":"ERROR","timestamp":"2019-07-30 07:43:32.014","file":"model/init.go:28","msg":"Database connection failed.Database name:db_apiserver","data":{"error":"dial tcp 127.0.0.1:3306: connect: connection refused"}}
+{"level":"INFO","timestamp":"2019-07-30 07:43:32.014","file":"apiserver/main.go:114","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-30 07:43:32.035","file":"apiserver/main.go:101","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-30 07:44:11.777","file":"middleware/logging.go:83","msg":"703.4µs       | 172.18.0.1   | POST /login | {code: 20102, message: The user was not found.}"}
+{"level":"INFO","timestamp":"2019-07-30 07:44:30.397","file":"apiserver/main.go:114","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-30 07:44:30.413","file":"apiserver/main.go:101","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-30 07:44:34.248","file":"middleware/logging.go:83","msg":"183.4146ms    | 172.18.0.1   | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 07:44:36.492","file":"middleware/logging.go:83","msg":"186.238ms     | 172.18.0.1   | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 07:44:38.504","file":"middleware/logging.go:83","msg":"138.7396ms    | 172.18.0.1   | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 07:44:56.388","file":"middleware/logging.go:83","msg":"183.0728ms    | 172.18.0.1   | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 07:45:04.213","file":"middleware/logging.go:83","msg":"129.2336ms    | 172.18.0.1   | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 07:46:07.911","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":"831fd3d4-4773-45c1-8db5-672c66b2e19a"}}
+{"level":"INFO","timestamp":"2019-07-30 07:46:07.911","file":"user/list.go:20","msg":"User List funcation params:Username:aaa, Offset:50, Limit:50"}
+{"level":"INFO","timestamp":"2019-07-30 07:46:22.631","file":"middleware/logging.go:83","msg":"14.720369s    | 172.18.0.1   | GET /v1/user | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 07:46:25.017","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":"7fe92cc0-1110-44ef-8de2-95a85967c49b"}}
+{"level":"INFO","timestamp":"2019-07-30 07:46:25.017","file":"user/list.go:20","msg":"User List funcation params:Username:aaa, Offset:0, Limit:50"}
+{"level":"INFO","timestamp":"2019-07-30 07:46:37.988","file":"middleware/logging.go:83","msg":"12.9718912s   | 172.18.0.1   | GET /v1/user | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 07:46:39.337","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":"b9f0f657-ff1c-4447-8b34-312e91056311"}}
+{"level":"INFO","timestamp":"2019-07-30 07:46:39.337","file":"user/list.go:20","msg":"User List funcation params:Username:admin, Offset:0, Limit:50"}
+{"level":"INFO","timestamp":"2019-07-30 07:46:50.410","file":"middleware/logging.go:83","msg":"11.0725526s   | 172.18.0.1   | GET /v1/user | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 07:47:52.738","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":"2ee82c5e-2ef4-4ce4-b2c4-b698b030c1ff"}}
+{"level":"INFO","timestamp":"2019-07-30 07:47:52.776","file":"user/list.go:20","msg":"User List funcation params:Username:asdmin, Offset:0, Limit:50"}
+{"level":"INFO","timestamp":"2019-07-30 07:47:58.265","file":"middleware/logging.go:83","msg":"5.5271377s    | 172.18.0.1   | GET /v1/user | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 07:48:17.406","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":"3fed5b9b-61fe-422b-b602-6b043b0842fe"}}
+{"level":"INFO","timestamp":"2019-07-30 07:48:17.478","file":"user/list.go:20","msg":"User List funcation params:Username:asdmin, Offset:0, Limit:50"}
+{"level":"INFO","timestamp":"2019-07-30 07:48:23.394","file":"middleware/logging.go:83","msg":"5.9883486s    | 172.18.0.1   | GET /v1/user | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 07:48:37.088","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":"2491e1ef-0bbf-49d2-b8c0-651b6bf9ebd4"}}
+{"level":"INFO","timestamp":"2019-07-30 07:48:37.123","file":"user/list.go:20","msg":"User List funcation params:Username:asdmin, Offset:0, Limit:50"}
+{"level":"INFO","timestamp":"2019-07-30 07:48:42.994","file":"middleware/logging.go:83","msg":"5.9056017s    | 172.18.0.1   | GET /v1/user | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 07:49:52.090","file":"user/list.go:14","msg":"User List function called.","data":{"X-Request-Id:":"bf038be9-20ae-4ad6-baab-f36cbdf7d592"}}
+{"level":"INFO","timestamp":"2019-07-30 07:49:52.121","file":"user/list.go:20","msg":"User List funcation params:Username:asdmin, Offset:0, Limit:50"}
+{"level":"INFO","timestamp":"2019-07-30 07:49:58.307","file":"middleware/logging.go:83","msg":"6.2171975s    | 172.18.0.1   | GET /v1/user | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 08:06:04.978","file":"apiserver/main.go:114","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-30 08:06:04.989","file":"apiserver/main.go:101","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-30 08:17:14.373","file":"apiserver/main.go:114","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-30 08:17:14.375","file":"apiserver/main.go:101","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-30 08:25:55.062","file":"middleware/logging.go:83","msg":"202.3973ms    | 172.19.0.1   | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 08:25:59.656","file":"middleware/logging.go:83","msg":"183.2019ms    | 172.19.0.1   | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 08:26:00.844","file":"middleware/logging.go:83","msg":"166.9484ms    | 172.19.0.1   | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 08:26:02.023","file":"middleware/logging.go:83","msg":"183.6988ms    | 172.19.0.1   | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 08:26:07.352","file":"middleware/logging.go:83","msg":"136.0978ms    | 172.19.0.1   | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 08:26:08.491","file":"middleware/logging.go:83","msg":"117.0656ms    | 172.19.0.1   | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 08:26:09.528","file":"middleware/logging.go:83","msg":"155.3958ms    | 172.19.0.1   | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 08:26:10.444","file":"middleware/logging.go:83","msg":"193.9583ms    | 172.19.0.1   | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 08:26:11.407","file":"middleware/logging.go:83","msg":"184.962ms     | 172.19.0.1   | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 08:26:12.222","file":"middleware/logging.go:83","msg":"185.4187ms    | 172.19.0.1   | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 08:26:13.154","file":"middleware/logging.go:83","msg":"197.0872ms    | 172.19.0.1   | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 08:26:13.931","file":"middleware/logging.go:83","msg":"185.2524ms    | 172.19.0.1   | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 08:26:15.167","file":"middleware/logging.go:83","msg":"196.6776ms    | 172.19.0.1   | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 08:26:16.164","file":"middleware/logging.go:83","msg":"130.793ms     | 172.19.0.1   | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 08:26:18.195","file":"middleware/logging.go:83","msg":"197.0255ms    | 172.19.0.1   | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 08:26:19.281","file":"middleware/logging.go:83","msg":"112.922ms     | 172.19.0.1   | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 08:26:20.827","file":"middleware/logging.go:83","msg":"154.5133ms    | 172.19.0.1   | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 08:26:21.816","file":"middleware/logging.go:83","msg":"138.9019ms    | 172.19.0.1   | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 08:26:23.148","file":"middleware/logging.go:83","msg":"198.2842ms    | 172.19.0.1   | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 08:26:24.420","file":"middleware/logging.go:83","msg":"188.7198ms    | 172.19.0.1   | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 08:32:05.721","file":"apiserver/main.go:114","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-30 08:32:05.740","file":"apiserver/main.go:101","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-30 08:32:50.639","file":"apiserver/main.go:114","msg":"Start to listening the incoming requests on http address: :8081"}
+{"level":"INFO","timestamp":"2019-07-30 08:32:50.641","file":"apiserver/main.go:101","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-30 08:39:30.699","file":"middleware/logging.go:83","msg":"166.5727ms    | 172.19.0.1   | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 08:39:49.554","file":"middleware/logging.go:83","msg":"153.5633ms    | 172.19.0.1   | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 08:39:50.554","file":"middleware/logging.go:83","msg":"182.6615ms    | 172.19.0.1   | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 08:39:51.363","file":"middleware/logging.go:83","msg":"173.5195ms    | 172.19.0.1   | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 08:39:52.058","file":"middleware/logging.go:83","msg":"142.4174ms    | 172.19.0.1   | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 08:39:52.531","file":"middleware/logging.go:83","msg":"125.7269ms    | 172.19.0.1   | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 08:39:53.007","file":"middleware/logging.go:83","msg":"141.1863ms    | 172.19.0.1   | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 08:39:53.612","file":"middleware/logging.go:83","msg":"124.3062ms    | 172.19.0.1   | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 08:39:54.187","file":"middleware/logging.go:83","msg":"158.6568ms    | 172.19.0.1   | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 08:39:54.778","file":"middleware/logging.go:83","msg":"176.987ms     | 172.19.0.1   | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 08:39:55.306","file":"middleware/logging.go:83","msg":"140.8876ms    | 172.19.0.1   | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 08:39:55.947","file":"middleware/logging.go:83","msg":"186.8794ms    | 172.19.0.1   | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 08:39:56.563","file":"middleware/logging.go:83","msg":"173.4627ms    | 172.19.0.1   | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 08:40:17.927","file":"middleware/logging.go:83","msg":"146.3639ms    | 172.19.0.1   | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 08:40:19.687","file":"middleware/logging.go:83","msg":"185.2129ms    | 172.19.0.1   | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 08:40:21.079","file":"middleware/logging.go:83","msg":"143.1382ms    | 172.19.0.1   | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 08:40:22.335","file":"middleware/logging.go:83","msg":"136.5782ms    | 172.19.0.1   | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 08:40:23.657","file":"middleware/logging.go:83","msg":"173.0763ms    | 172.19.0.1   | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 08:40:24.986","file":"middleware/logging.go:83","msg":"102.4335ms    | 172.19.0.1   | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 08:53:19.342","file":"middleware/logging.go:83","msg":"195.692ms     | 172.19.0.1   | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 08:53:20.342","file":"middleware/logging.go:83","msg":"149.8508ms    | 172.19.0.1   | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 08:53:21.364","file":"middleware/logging.go:83","msg":"155.3228ms    | 172.19.0.1   | POST /login | {code: 0, message: OK}"}
+{"level":"ERROR","timestamp":"2019-07-30 17:01:03.247","file":"model/init.go:28","msg":"Database connection failed.Database name:db_apiserver","data":{"error":"dial tcp: lookup mysql: no such host"}}
+{"level":"ERROR","timestamp":"2019-07-30 17:01:05.507","file":"model/init.go:28","msg":"Database connection failed.Database name:db_apiserver","data":{"error":"dial tcp: lookup mysql: no such host"}}
+{"level":"INFO","timestamp":"2019-07-30 17:01:05.507","file":"apiserver/main.go:114","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-30 17:01:05.520","file":"apiserver/main.go:125","msg":"Waiting for the reouter, retry in 1 second"}
+{"level":"INFO","timestamp":"2019-07-30 17:01:06.534","file":"apiserver/main.go:125","msg":"Waiting for the reouter, retry in 1 second"}
+{"level":"FATAL","timestamp":"2019-07-30 17:01:07.536","file":"apiserver/main.go:99","msg":"The router has no response, or it might took too long to start up.","data":{"error":"Cannot connect to the router.","trace":"goroutine 29 [running]:\nvendor/github.com/lexkong/log/lager.(*logger).logs(0xc000044a80, 0xc000005360, 0x2, 0x2, 0x4, 0xc2f4eb, 0x42, 0xd16b00, 0xc000005340, 0x0, ...)\n\tE:/workspace/go/src/vendor/github.com/lexkong/log/lager/logger.go:135 +0x8e5\nvendor/github.com/lexkong/log/lager.(*logger).log(0xc000044a80, 0x4, 0xc2f4eb, 0x42, 0xd16b00, 0xc000005340, 0x0, 0x0, 0x0)\n\tE:/workspace/go/src/vendor/github.com/lexkong/log/lager/logger.go:123 +0xe0\nvendor/github.com/lexkong/log/lager.(*logger).Fatal(0xc000044a80, 0xc2f4eb, 0x42, 0xd16b00, 0xc000005340, 0x0, 0x0, 0x0)\n\tE:/workspace/go/src/vendor/github.com/lexkong/log/lager/logger.go:197 +0x8a\nvendor/github.com/lexkong/log.Fatal(...)\n\tE:/workspace/go/src/vendor/github.com/lexkong/log/st_lager.go:162\nmain.main.func1()\n\tE:/workspace/go/src/apiserver/main.go:99 +0xcd\ncreated by main.main\n\tE:/workspace/go/src/apiserver/main.go:97 +0x480\n"}}
+{"level":"INFO","timestamp":"2019-07-30 17:02:09.544","file":"apiserver/main.go:114","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-30 17:02:09.554","file":"apiserver/main.go:125","msg":"Waiting for the reouter, retry in 1 second"}
+{"level":"INFO","timestamp":"2019-07-30 17:02:10.564","file":"apiserver/main.go:125","msg":"Waiting for the reouter, retry in 1 second"}
+{"level":"FATAL","timestamp":"2019-07-30 17:02:11.567","file":"apiserver/main.go:99","msg":"The router has no response, or it might took too long to start up.","data":{"error":"Cannot connect to the router.","trace":"goroutine 10 [running]:\nvendor/github.com/lexkong/log/lager.(*logger).logs(0xc000044c00, 0xc0002eec40, 0x2, 0x2, 0x4, 0xc2f4eb, 0x42, 0xd16b00, 0xc0002eec20, 0x0, ...)\n\tE:/workspace/go/src/vendor/github.com/lexkong/log/lager/logger.go:135 +0x8e5\nvendor/github.com/lexkong/log/lager.(*logger).log(0xc000044c00, 0x4, 0xc2f4eb, 0x42, 0xd16b00, 0xc0002eec20, 0x0, 0x0, 0x0)\n\tE:/workspace/go/src/vendor/github.com/lexkong/log/lager/logger.go:123 +0xe0\nvendor/github.com/lexkong/log/lager.(*logger).Fatal(0xc000044c00, 0xc2f4eb, 0x42, 0xd16b00, 0xc0002eec20, 0x0, 0x0, 0x0)\n\tE:/workspace/go/src/vendor/github.com/lexkong/log/lager/logger.go:197 +0x8a\nvendor/github.com/lexkong/log.Fatal(...)\n\tE:/workspace/go/src/vendor/github.com/lexkong/log/st_lager.go:162\nmain.main.func1()\n\tE:/workspace/go/src/apiserver/main.go:99 +0xcd\ncreated by main.main\n\tE:/workspace/go/src/apiserver/main.go:97 +0x480\n"}}
+{"level":"INFO","timestamp":"2019-07-30 17:03:46.512","file":"apiserver/main.go:114","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-30 17:03:46.517","file":"apiserver/main.go:125","msg":"Waiting for the reouter, retry in 1 second"}
+{"level":"INFO","timestamp":"2019-07-30 17:03:47.523","file":"apiserver/main.go:125","msg":"Waiting for the reouter, retry in 1 second"}
+{"level":"FATAL","timestamp":"2019-07-30 17:03:48.524","file":"apiserver/main.go:99","msg":"The router has no response, or it might took too long to start up.","data":{"error":"Cannot connect to the router.","trace":"goroutine 10 [running]:\nvendor/github.com/lexkong/log/lager.(*logger).logs(0xc000044c00, 0xc0000056e0, 0x2, 0x2, 0x4, 0xc2f4eb, 0x42, 0xd16b00, 0xc0000056c0, 0x0, ...)\n\tE:/workspace/go/src/vendor/github.com/lexkong/log/lager/logger.go:135 +0x8e5\nvendor/github.com/lexkong/log/lager.(*logger).log(0xc000044c00, 0x4, 0xc2f4eb, 0x42, 0xd16b00, 0xc0000056c0, 0x0, 0x0, 0x0)\n\tE:/workspace/go/src/vendor/github.com/lexkong/log/lager/logger.go:123 +0xe0\nvendor/github.com/lexkong/log/lager.(*logger).Fatal(0xc000044c00, 0xc2f4eb, 0x42, 0xd16b00, 0xc0000056c0, 0x0, 0x0, 0x0)\n\tE:/workspace/go/src/vendor/github.com/lexkong/log/lager/logger.go:197 +0x8a\nvendor/github.com/lexkong/log.Fatal(...)\n\tE:/workspace/go/src/vendor/github.com/lexkong/log/st_lager.go:162\nmain.main.func1()\n\tE:/workspace/go/src/apiserver/main.go:99 +0xcd\ncreated by main.main\n\tE:/workspace/go/src/apiserver/main.go:97 +0x480\n"}}
+{"level":"INFO","timestamp":"2019-07-30 17:05:01.000","file":"apiserver/main.go:114","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-30 17:05:01.005","file":"apiserver/main.go:125","msg":"Waiting for the reouter, retry in 1 second"}
+{"level":"INFO","timestamp":"2019-07-30 17:05:02.008","file":"apiserver/main.go:125","msg":"Waiting for the reouter, retry in 1 second"}
+{"level":"FATAL","timestamp":"2019-07-30 17:05:03.009","file":"apiserver/main.go:99","msg":"The router has no response, or it might took too long to start up.","data":{"error":"Cannot connect to the router.","trace":"goroutine 10 [running]:\nvendor/github.com/lexkong/log/lager.(*logger).logs(0xc000044c00, 0xc000005780, 0x2, 0x2, 0x4, 0xc2f4eb, 0x42, 0xd16b00, 0xc000005760, 0x0, ...)\n\tE:/workspace/go/src/vendor/github.com/lexkong/log/lager/logger.go:135 +0x8e5\nvendor/github.com/lexkong/log/lager.(*logger).log(0xc000044c00, 0x4, 0xc2f4eb, 0x42, 0xd16b00, 0xc000005760, 0x0, 0x0, 0x0)\n\tE:/workspace/go/src/vendor/github.com/lexkong/log/lager/logger.go:123 +0xe0\nvendor/github.com/lexkong/log/lager.(*logger).Fatal(0xc000044c00, 0xc2f4eb, 0x42, 0xd16b00, 0xc000005760, 0x0, 0x0, 0x0)\n\tE:/workspace/go/src/vendor/github.com/lexkong/log/lager/logger.go:197 +0x8a\nvendor/github.com/lexkong/log.Fatal(...)\n\tE:/workspace/go/src/vendor/github.com/lexkong/log/st_lager.go:162\nmain.main.func1()\n\tE:/workspace/go/src/apiserver/main.go:99 +0xcd\ncreated by main.main\n\tE:/workspace/go/src/apiserver/main.go:97 +0x480\n"}}
+{"level":"INFO","timestamp":"2019-07-30 17:05:56.737","file":"apiserver/main.go:114","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-30 17:05:56.742","file":"apiserver/main.go:125","msg":"Waiting for the reouter, retry in 1 second"}
+{"level":"INFO","timestamp":"2019-07-30 17:05:57.749","file":"apiserver/main.go:125","msg":"Waiting for the reouter, retry in 1 second"}
+{"level":"INFO","timestamp":"2019-07-30 17:05:58.767","file":"apiserver/main.go:125","msg":"Waiting for the reouter, retry in 1 second"}
+{"level":"INFO","timestamp":"2019-07-30 17:05:59.800","file":"apiserver/main.go:125","msg":"Waiting for the reouter, retry in 1 second"}
+{"level":"INFO","timestamp":"2019-07-30 17:06:00.803","file":"apiserver/main.go:125","msg":"Waiting for the reouter, retry in 1 second"}
+{"level":"FATAL","timestamp":"2019-07-30 17:06:01.804","file":"apiserver/main.go:99","msg":"The router has no response, or it might took too long to start up.","data":{"error":"Cannot connect to the router.","trace":"goroutine 10 [running]:\nvendor/github.com/lexkong/log/lager.(*logger).logs(0xc000044c00, 0xc0002eed60, 0x2, 0x2, 0x4, 0xc2f4eb, 0x42, 0xd16b00, 0xc0002eed40, 0x0, ...)\n\tE:/workspace/go/src/vendor/github.com/lexkong/log/lager/logger.go:135 +0x8e5\nvendor/github.com/lexkong/log/lager.(*logger).log(0xc000044c00, 0x4, 0xc2f4eb, 0x42, 0xd16b00, 0xc0002eed40, 0x0, 0x0, 0x0)\n\tE:/workspace/go/src/vendor/github.com/lexkong/log/lager/logger.go:123 +0xe0\nvendor/github.com/lexkong/log/lager.(*logger).Fatal(0xc000044c00, 0xc2f4eb, 0x42, 0xd16b00, 0xc0002eed40, 0x0, 0x0, 0x0)\n\tE:/workspace/go/src/vendor/github.com/lexkong/log/lager/logger.go:197 +0x8a\nvendor/github.com/lexkong/log.Fatal(...)\n\tE:/workspace/go/src/vendor/github.com/lexkong/log/st_lager.go:162\nmain.main.func1()\n\tE:/workspace/go/src/apiserver/main.go:99 +0xcd\ncreated by main.main\n\tE:/workspace/go/src/apiserver/main.go:97 +0x480\n"}}
+{"level":"INFO","timestamp":"2019-07-30 17:08:24.922","file":"apiserver/main.go:114","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-30 17:08:24.935","file":"apiserver/main.go:101","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-30 17:08:30.886","file":"middleware/logging.go:83","msg":"172.9969ms    | 127.0.0.1    | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 20:47:28.532","file":"apiserver/main.go:114","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-30 20:47:28.541","file":"apiserver/main.go:101","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-30 21:12:32.071","file":"apiserver/main.go:114","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-30 21:12:32.624","file":"apiserver/main.go:101","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-30 21:49:48.190","file":"apiserver/main.go:114","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-30 21:49:48.204","file":"apiserver/main.go:101","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-30 21:49:55.047","file":"middleware/logging.go:83","msg":"220.995ms     | 127.0.0.1    | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-07-30 21:50:12.243","file":"config/config.go:62","msg":"Config file changed:E:\\workspace\\go\\src\\apiserver\\conf\\config.yaml"}
+{"level":"INFO","timestamp":"2019-07-30 21:50:15.384","file":"config/config.go:62","msg":"Config file changed:E:\\workspace\\go\\src\\apiserver\\conf\\config.yaml"}
+{"level":"INFO","timestamp":"2019-07-30 13:50:55.358","file":"apiserver/main.go:114","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-30 13:50:55.368","file":"apiserver/main.go:101","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-07-30 13:57:52.508","file":"apiserver/main.go:114","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-07-30 13:57:52.521","file":"apiserver/main.go:101","msg":"The router has been deplyed successfully."}
+{"level":"INFO","timestamp":"2019-08-01 02:08:47.990","file":"apiserver/main.go:80","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-08-01 02:08:47.998","file":"apiserver/main.go:67","msg":"The router has been deplyed successfully."}
